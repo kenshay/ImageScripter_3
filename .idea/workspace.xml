@@ -228,8 +228,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-56" />
-    <option name="y" value="506" />
+    <option name="x" value="35" />
+    <option name="y" value="473" />
     <option name="width" value="1261" />
     <option name="height" value="598" />
   </component>
@@ -263,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.device">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -378,10 +378,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.device" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.script_runner_class" />
       </list>
     </recent_temporary>
