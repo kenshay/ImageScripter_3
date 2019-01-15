@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +29,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="72" />
+            <state relative-caret-position="153">
+              <caret line="9" column="81" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,17 +50,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="250" column="29" lean-forward="true" selection-start-line="250" selection-start-column="29" selection-end-line="250" selection-end-column="29" />
+            <state relative-caret-position="14">
+              <caret line="214" column="7" selection-start-line="214" selection-start-column="7" selection-end-line="214" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            <state relative-caret-position="221">
+              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -64,11 +68,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="293">
+              <caret line="58" column="71" selection-start-line="58" selection-start-column="71" selection-end-line="58" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,10 +91,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>self.database_folder_location</find>
-      <find>CPu</find>
-      <find>urllib</find>
-      <find>BeautifulSoup</find>
       <find>Beau</find>
       <find>WaitF</find>
       <find>reset</find>
@@ -106,7 +109,6 @@
       <find>Close</find>
       <find>Press</find>
       <find>SleepCount(</find>
-      <find>CloseAndClean</find>
       <find>touchscreensecurity</find>
       <find>ConfigBackupFilePath</find>
       <find>ElanSettings.ConfigBackupFilePath</find>
@@ -114,6 +116,11 @@
       <find />
       <find>C:\\Users\\Automation3\\Desktop\\T</find>
       <find>ElanHomeSystemsConnect.Close()</find>
+      <find>CloseAndClean</find>
+      <find>Database_Manager_Class</find>
+      <find>database_location</find>
+      <find>fresh_data_base</find>
+      <find>fresh_station_database</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -177,17 +184,17 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="77" />
+    <option name="x" value="52" />
     <option name="y" value="-8" />
     <option name="width" value="1261" />
     <option name="height" value="598" />
@@ -222,8 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.screen_recorder">
-    <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.database_manager">
+    <configuration name="database_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +242,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,18 +337,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.script_runner_class" />
-      <item itemvalue="Python.image" />
       <item itemvalue="Python.scratch_41" />
       <item itemvalue="Python.scratch_1" />
       <item itemvalue="Python.screen_recorder" />
+      <item itemvalue="Python.database_manager" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.screen_recorder" />
+        <item itemvalue="Python.database_manager" />
         <item itemvalue="Python.script_runner_class" />
+        <item itemvalue="Python.screen_recorder" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.scratch_41" />
-        <item itemvalue="Python.image" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +374,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44132653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29464287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -683,10 +690,13 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py" />
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="221">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -699,24 +709,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="250" column="29" lean-forward="true" selection-start-line="250" selection-start-column="29" selection-end-line="250" selection-end-column="29" />
+        <state relative-caret-position="14">
+          <caret line="214" column="7" selection-start-line="214" selection-start-column="7" selection-end-line="214" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="72" />
+        <state relative-caret-position="153">
+          <caret line="9" column="81" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="293">
+          <caret line="58" column="71" selection-start-line="58" selection-start-column="71" selection-end-line="58" selection-end-column="71" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
