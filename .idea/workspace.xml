@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/data/deviceApplicationObject" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/data/deviceApplicationObject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
+            <state relative-caret-position="1295">
               <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -41,13 +41,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="elan_script.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="elan_script.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="18" />
+            <state relative-caret-position="294">
+              <caret line="86" column="36" lean-forward="true" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch_41.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="device.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="19" column="110" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="110" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,8 +77,8 @@
       <file leaf-file-name="variable_file_getter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="312">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -66,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/ssh_manager.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -74,61 +95,41 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shutil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/shutil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="4_media.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Pools/Frank/4_media.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="Script_Runner_Stop_On_Fail_Restart_on_error.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Tools/Script_Runner_Stop_On_Fail_Restart_on_error.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="940" column="32" selection-start-line="940" selection-start-column="20" selection-end-line="940" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Single_Video_Player_Sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/Single_Video_Player_Sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
-              <folding>
-                <element signature="e#44#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="screen_recorder.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch_41.py" pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="36" column="8" selection-start-line="34" selection-end-line="49" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1343">
+              <caret line="920" column="35" selection-start-line="920" selection-start-column="35" selection-end-line="920" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -144,9 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>SleepCount(</find>
-      <find>touchscreensecurity</find>
-      <find>ElanSettings.ConfigBackupFilePath</find>
       <find>locationandweather</find>
       <find />
       <find>C:\\Users\\Automation3\\Desktop\\T</find>
@@ -160,20 +158,23 @@
       <find>videoWidget</find>
       <find>self.mediaPlayer</find>
       <find>play</find>
-      <find>Script_Start_time =</find>
+      <find />
       <find>Get_SCRIPT_START_TIME</find>
-      <find>for script in</find>
+      <find />
       <find>getTime</find>
-      <find>def getT</find>
+      <find />
       <find>database_location</find>
       <find>Stat</find>
       <find>Error_ID</find>
       <find>Controller_Build</find>
       <find>createSSHClient</find>
-      <find>Build</find>
       <find>destination_File2</find>
       <find>target_img</find>
-      <find>target image</find>
+      <find />
+      <find>Build</find>
+      <find>imwrite</find>
+      <find>#############</find>
+      <find />
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -206,7 +207,6 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/2c____Viewer_Settings_Unconfigured_Check_Pages___.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/5_____Restore_Config___.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/7_____Check_Save_The_Last_Screen_Is_Working___.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/7_____Set_System_Description_Restart_Check___.py" />
@@ -239,16 +239,17 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/ssh_manager.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1854" />
-    <option name="y" value="-216" />
+    <option name="x" value="-1513" />
+    <option name="y" value="-320" />
     <option name="width" value="1261" />
     <option name="height" value="712" />
   </component>
@@ -261,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -282,7 +283,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scratch_41">
+  <component name="RunManager" selected="Python.elan_script">
+    <configuration name="device" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageScripter_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="elan_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,38 +374,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ssh_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ImageScripter_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/ssh_manager.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.ssh_manager" />
       <item itemvalue="Python.script_runner_class" />
       <item itemvalue="Python.elan_script" />
       <item itemvalue="Python.ssh_manager (1)" />
       <item itemvalue="Python.scratch_41" />
+      <item itemvalue="Python.device" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch_41" />
         <item itemvalue="Python.elan_script" />
+        <item itemvalue="Python.scratch_41" />
+        <item itemvalue="Python.device" />
         <item itemvalue="Python.ssh_manager (1)" />
         <item itemvalue="Python.script_runner_class" />
-        <item itemvalue="Python.ssh_manager" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +413,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18338399" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29280648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -441,7 +442,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py</url>
-          <line>76</line>
+          <line>86</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/pc.py</url>
@@ -508,13 +509,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/2c____Viewer_Settings_Unconfigured_Check_Pages___.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/5_____Restore_Config___.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -646,15 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -680,16 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,9 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Pools/Frank/4_media.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/Duel_Video_Player_Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -780,16 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/ssh_manager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -797,13 +759,6 @@
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -820,34 +775,85 @@
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/ssh_manager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="18" />
+        <state relative-caret-position="1295">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Tools/Script_Runner_Stop_On_Fail_Restart_on_error.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="940" column="32" selection-start-line="940" selection-start-column="20" selection-end-line="940" selection-end-column="32" />
+        <state relative-caret-position="1343">
+          <caret line="920" column="35" selection-start-line="920" selection-start-column="35" selection-end-line="920" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Pools/Frank/4_media.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
+        <state relative-caret-position="612">
+          <caret line="20" selection-start-line="20" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="19" column="110" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="110" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="86" column="36" lean-forward="true" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
