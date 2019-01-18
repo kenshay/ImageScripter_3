@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="" />
+    <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +27,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state relative-caret-position="102">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="1164" selection-start-line="1164" selection-end-line="1164" />
+              <folding>
+                <element signature="e#10#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,7 +55,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_44.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="13" />
+              <caret selection-end-line="1" selection-end-column="9" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -49,17 +66,17 @@
       <file leaf-file-name="variable_file_getter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="170">
               <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="elan_script.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="elan_script.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="178">
+              <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -70,7 +87,7 @@
       <file leaf-file-name="screen_recorder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
+            <state relative-caret-position="1309">
               <caret line="83" selection-start-line="83" selection-end-line="83" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -82,7 +99,7 @@
       <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="1870">
               <caret line="115" selection-start-line="115" selection-end-line="115" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -94,7 +111,7 @@
       <file leaf-file-name="shutil.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/shutil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="1955">
               <caret line="120" selection-start-line="120" selection-end-line="120" />
             </state>
           </provider>
@@ -103,7 +120,7 @@
       <file leaf-file-name="4_media.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Pools/Frank/4_media.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -112,7 +129,7 @@
       <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
+            <state relative-caret-position="561">
               <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -132,36 +149,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>database_location</find>
-      <find>Stat</find>
-      <find>Error_ID</find>
       <find>Controller_Build</find>
       <find>createSSHClient</find>
       <find>destination_File2</find>
       <find>target_img</find>
-      <find>target image</find>
+      <find />
       <find>imwrite</find>
       <find>#############</find>
       <find>in</find>
       <find>Break</find>
-      <find>import base64</find>
+      <find />
       <find>Break_Down_Entries_Into_Varaibles</find>
       <find>target_AND_templet_image</find>
       <find>target_image</find>
       <find>class</find>
-      <find>as e</find>
+      <find />
       <find>1117</find>
       <find>deselect</find>
       <find>ValueErr</find>
       <find>Build</find>
       <find>FFFF</find>
       <find>base64.b64decod</find>
-      <find>with open('temp</find>
+      <find />
       <find>string</find>
       <find>Databas</find>
       <find>base64</find>
       <find>fres</find>
       <find>self.encoded</find>
+      <find>C:\Elan_Tools\Cloud_Drive\Database</find>
+      <find>notes</find>
+      <find>try</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -223,20 +240,20 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/ssh_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
-        <option value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_41.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
+        <option value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1695" />
-    <option name="y" value="-322" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1615" />
+    <option name="y" value="141" />
     <option name="width" value="1261" />
     <option name="height" value="712" />
   </component>
@@ -270,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.script_runner_class">
+  <component name="RunManager" selected="Python.Main">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,10 +387,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main" />
         <item itemvalue="Python.script_runner_class" />
         <item itemvalue="Python.elan_script" />
         <item itemvalue="Python.scratch_44" />
-        <item itemvalue="Python.Main" />
         <item itemvalue="Python.scratch_41" />
       </list>
     </recent_temporary>
@@ -393,35 +410,48 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42857143" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37588653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5126646" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32270408" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-    </layout>
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -710,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/shutil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="1955">
           <caret line="120" selection-start-line="120" selection-end-line="120" />
         </state>
       </provider>
@@ -725,26 +755,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="741" selection-start-line="741" selection-end-line="741" />
-          <folding>
-            <element signature="e#10#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/Pools/Frank/4_media.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="1870">
           <caret line="115" selection-start-line="115" selection-end-line="115" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -761,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="170">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
@@ -769,7 +789,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_44.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="13" />
+          <caret selection-end-line="1" selection-end-column="9" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -778,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
+        <state relative-caret-position="1309">
           <caret line="83" selection-start-line="83" selection-end-line="83" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -788,7 +808,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
+        <state relative-caret-position="561">
           <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -796,22 +816,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
+    <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="50">
+          <caret line="1164" selection-start-line="1164" selection-end-line="1164" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#10#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="102">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
