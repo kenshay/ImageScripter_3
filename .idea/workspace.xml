@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/AddAll.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/Frank.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/Other" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/Quick_Tests.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/SQLiteDatabaseBrowserPortable.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/Smoke_Station.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +37,8 @@
       <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1280">
-              <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+            <state relative-caret-position="279">
+              <caret line="78" column="52" lean-forward="true" selection-start-line="77" selection-start-column="31" selection-end-line="78" selection-end-column="52" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -44,23 +51,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="985">
-              <caret line="1992" column="53" selection-start-line="1992" selection-start-column="35" selection-end-line="1992" selection-end-column="53" />
+            <state relative-caret-position="245">
+              <caret line="1270" column="21" selection-start-line="1270" selection-start-column="12" selection-end-line="1271" selection-end-column="22" />
               <folding>
                 <element signature="e#10#20#0" expanded="true" />
               </folding>
@@ -71,8 +66,8 @@
       <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            <state relative-caret-position="349">
+              <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -80,11 +75,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/834302917/builtins.py">
+      <file leaf-file-name="variable_file_getter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/variable_file_getter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="5147" column="8" selection-start-line="5147" selection-start-column="8" selection-end-line="5147" selection-end-column="8" />
+            <state relative-caret-position="136">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,16 +107,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Break_Down_Entries_Into_Varaibles</find>
-      <find>save</find>
-      <find>Note</find>
-      <find>self.notes</find>
-      <find>Fail_</find>
-      <find>name</find>
-      <find>Clicked.conn</find>
       <find>new_video</find>
       <find>base64</find>
-      <find>print</find>
       <find>Controller_IP</find>
       <find>ControllerIP_V</find>
       <find>Refresh_</find>
@@ -125,11 +124,19 @@
       <find>Create_Entry_Widgets</find>
       <find>Get_Entries_With_Variable_Data</find>
       <find>for entry</find>
-      <find>SELECT</find>
-      <find>Script_Folder</find>
       <find>entry</find>
       <find>uic</find>
       <find>QStandardItemModel</find>
+      <find>test</find>
+      <find>for databasee in</find>
+      <find>SELECT</find>
+      <find>Script_Folder</find>
+      <find>Index_Time</find>
+      <find>traceba</find>
+      <find>print</find>
+      <find>Break_Down_Entries_Into_Varaibles</find>
+      <find>print(</find>
+      <find>IndexErr</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -195,16 +202,16 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.py" />
         <option value="C:/Elan_Tools/ImageScripter/Script_Runner/variable_file_getter_for_runner.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
-        <option value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/__init__.py" />
+        <option value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1769" />
-    <option name="y" value="-323" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1744" />
+    <option name="y" value="-329" />
     <option name="width" value="1261" />
     <option name="height" value="712" />
   </component>
@@ -360,7 +367,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="7" />
+    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
@@ -369,7 +376,7 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4093212" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35157043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -486,13 +493,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/pywinauto/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19788">
-          <caret line="1192" selection-start-line="1192" selection-end-line="1192" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/pywinauto/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -810,16 +810,6 @@
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1280">
-          <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/834302917/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -827,30 +817,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="279">
+          <caret line="78" column="52" lean-forward="true" selection-start-line="77" selection-start-column="31" selection-end-line="78" selection-end-column="52" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/variable_file_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="985">
-          <caret line="1992" column="53" selection-start-line="1992" selection-start-column="35" selection-end-line="1992" selection-end-column="53" />
+        <state relative-caret-position="245">
+          <caret line="1270" column="21" selection-start-line="1270" selection-start-column="12" selection-end-line="1271" selection-end-column="22" />
           <folding>
             <element signature="e#10#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
+        <state relative-caret-position="420">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
