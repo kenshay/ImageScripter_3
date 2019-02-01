@@ -47,7 +47,7 @@ class SSH_Manager_Class():
                 command = """free | grep Mem | awk '{print $3/$2 * 100.0}'"""
                 def createSSHClient():
                     client = paramiko.SSHClient()
-                    client.load_system_host_keys()
+                    #client.load_system_host_keys()
                     client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
                     client.connect(self.ipadress, self.port, self.username, self.password)
                     return client
@@ -86,7 +86,7 @@ class SSH_Manager_Class():
         command = """free | grep Mem | awk '{print $4/$2 * 100.0}'"""
         def createSSHClient():
             client = paramiko.SSHClient()
-            client.load_system_host_keys()
+            #client.load_system_host_keys()
             client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             client.connect(self.ipadress, self.port, self.username, self.password)
             return client
@@ -122,7 +122,7 @@ class SSH_Manager_Class():
         command = """grep 'cpu ' /proc/stat | awk '{usage=($2+$4)*100/($2+$4+$5)} END {print usage ""}'"""
         def createSSHClient():
             client = paramiko.SSHClient()
-            client.load_system_host_keys()
+            #client.load_system_host_keys()
             client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             client.connect(self.ipadress, self.port, self.username, self.password)
             return client
@@ -158,7 +158,7 @@ class SSH_Manager_Class():
         command = """pidof GATEWAY"""
         def createSSHClient():
             client = paramiko.SSHClient()
-            client.load_system_host_keys()
+            #client.load_system_host_keys()
             client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             client.connect(self.ipadress, self.port, self.username, self.password)
             return client
@@ -201,7 +201,7 @@ class SSH_Manager_Class():
                 command = command.replace('#pid#',pid)
                 def createSSHClient():
                     client = paramiko.SSHClient()
-                    client.load_system_host_keys()
+                    #client.load_system_host_keys()
                     client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
                     client.connect(self.ipadress, self.port, self.username, self.password)
                     return client
@@ -246,7 +246,7 @@ class SSH_Manager_Class():
         print('Getting Controller Build')
         def createSSHClient():
             client = paramiko.SSHClient()
-            client.load_system_host_keys()
+            #client.load_system_host_keys()
             client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             client.connect(self.ipadress, self.port, self.username, self.password)
             return client
@@ -276,7 +276,7 @@ class SSH_Manager_Class():
         print('Getting Controller Name')
         def createSSHClient():
             client = paramiko.SSHClient()
-            client.load_system_host_keys()
+            #client.load_system_host_keys()
             client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             client.connect(self.ipadress, self.port, self.username, self.password)
             return client
