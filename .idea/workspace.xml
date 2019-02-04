@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,8 +61,17 @@
       <file leaf-file-name="scratch_58.py" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="72">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Custom_Applications.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="282" column="33" lean-forward="true" selection-start-line="282" selection-start-column="33" selection-end-line="282" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -99,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+            <state relative-caret-position="86">
+              <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -122,9 +129,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>r&quot;C:\Settings\raw.png&quot;</find>
-      <find>Viewer.</find>
-      <find>sleep</find>
       <find>audiogroup</find>
       <find>mediazones</find>
       <find>mediazone</find>
@@ -152,6 +156,9 @@
       <find>build</find>
       <find>get_B</find>
       <find>Error_ID</find>
+      <find>Controller_Name</find>
+      <find>IP</find>
+      <find>Waiting for Controller to come back online.</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -173,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/2.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.py" />
         <option value="C:/Elan_Tools/ImageScripter/Script_Runner/variable_file_getter_for_runner.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.py" />
@@ -220,10 +226,11 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
       </list>
     </option>
   </component>
@@ -242,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -264,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.database_manager">
+  <component name="RunManager" selected="Python.scratch_58">
     <configuration name="database_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -364,8 +371,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.database_manager" />
         <item itemvalue="Python.scratch_58" />
+        <item itemvalue="Python.database_manager" />
         <item itemvalue="Python.database_viewer" />
         <item itemvalue="Python.elan_script" />
         <item itemvalue="Python.script_runner_class" />
@@ -522,13 +529,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_53.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_Check_Main_Settings_Page_For_Changes_Old.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/12_BackupConfig.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/10_close_viewer_Mandatory.py" />
@@ -829,13 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -865,11 +858,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        <state relative-caret-position="86">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="282" column="33" lean-forward="true" selection-start-line="282" selection-start-column="33" selection-end-line="282" selection-end-column="33" />
         </state>
       </provider>
     </entry>
