@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="" />
+    <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="535">
+              <caret line="78" column="58" lean-forward="true" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -46,11 +49,20 @@
       <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="139" />
+            <state relative-caret-position="241">
+              <caret line="139" selection-start-line="139" selection-end-line="139" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -68,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
-              <caret line="286" column="45" lean-forward="true" selection-start-line="286" selection-start-column="45" selection-end-line="286" selection-end-column="45" />
+              <caret line="286" column="45" selection-start-line="286" selection-start-column="45" selection-end-line="286" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -96,8 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>audiogroup</find>
-      <find>mediazones</find>
       <find>mediazone</find>
       <find>tidal</find>
       <find>eventlogsecured</find>
@@ -126,6 +136,8 @@
       <find>IP</find>
       <find>Waiting for Controller to come back online.</find>
       <find>Error_ID</find>
+      <find>Custom_Standard_Item</find>
+      <find>clicked</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -192,18 +204,18 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-320" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1043" />
+    <option name="y" value="288" />
     <option name="width" value="974" />
     <option name="height" value="565" />
   </component>
@@ -339,8 +351,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.database_viewer" />
-        <item itemvalue="Python.scratch_58" />
         <item itemvalue="Python.database_manager" />
+        <item itemvalue="Python.scratch_58" />
         <item itemvalue="Python.elan_script" />
         <item itemvalue="Python.script_runner_class" />
       </list>
@@ -360,7 +372,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1335" y="48" width="974" height="455" extended-state="0" />
+    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
@@ -369,7 +381,7 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.67919075" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45491388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -799,14 +811,7 @@
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
-          <caret line="286" column="45" lean-forward="true" selection-start-line="286" selection-start-column="45" selection-end-line="286" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <caret line="286" column="45" selection-start-line="286" selection-start-column="45" selection-end-line="286" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -827,23 +832,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="78" column="58" lean-forward="true" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="139" />
+        <state relative-caret-position="241">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
         </state>
       </provider>
     </entry>
