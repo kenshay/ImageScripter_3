@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,23 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script_runner_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+            <state relative-caret-position="528">
+              <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -52,44 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen_recorder.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+      <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="83" column="53" lean-forward="true" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch_58.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="42" />
-              <folding>
-                <element signature="e#1#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch_60.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch_59.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="189">
+              <caret line="60" column="926" selection-start-line="60" selection-start-column="926" selection-end-line="60" selection-end-column="926" />
             </state>
           </provider>
         </entry>
@@ -106,8 +58,8 @@
       <file leaf-file-name="elan_script.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="221" lean-forward="true" selection-start-line="221" selection-end-line="221" />
+            <state relative-caret-position="20">
+              <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -144,8 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Test</find>
-      <find>paramiko</find>
       <find>Get</find>
       <find>client.load_system_host_keys()</find>
       <find>build</find>
@@ -166,7 +116,6 @@
       <find>Controller_Name</find>
       <find>Script_Name</find>
       <find>self.Screen_Recorder.stop(</find>
-      <find>Video Path</find>
       <find>SSH_Manager</find>
       <find>Controller_Build</find>
       <find>Build</find>
@@ -174,6 +123,9 @@
       <find>Encoded_Traceback_List</find>
       <find>Fail_Video</find>
       <find>self.Screen_Recorder.stop</find>
+      <find>Video Path</find>
+      <find>Comparison</find>
+      <find>Comparison_Pictures</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -237,15 +189,15 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/fail.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
       </list>
     </option>
   </component>
@@ -286,7 +238,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.script_runner_class">
+  <component name="RunManager" selected="Python.database_viewer">
+    <configuration name="database_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageScripter_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/database_viewer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="database_viewer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageScripter_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/database_viewer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="elan_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,42 +311,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="scratch_60" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ImageScripter_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="screen_recorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ImageScripter_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="script_runner_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -378,19 +330,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.screen_recorder" />
       <item itemvalue="Python.scratch_58" />
       <item itemvalue="Python.elan_script" />
-      <item itemvalue="Python.scratch_60" />
       <item itemvalue="Python.script_runner_class" />
+      <item itemvalue="Python.database_viewer" />
+      <item itemvalue="Python.database_manager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.database_viewer" />
+        <item itemvalue="Python.database_manager" />
         <item itemvalue="Python.script_runner_class" />
         <item itemvalue="Python.elan_script" />
         <item itemvalue="Python.scratch_58" />
-        <item itemvalue="Python.scratch_60" />
-        <item itemvalue="Python.screen_recorder" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +369,7 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23809524" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18946302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -840,23 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1441">
-          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -888,10 +823,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/fail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="435">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="80" column="58" lean-forward="true" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="58" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -900,28 +852,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="221" lean-forward="true" selection-start-line="221" selection-end-line="221" />
+        <state relative-caret-position="20">
+          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/fail.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="528">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="83" column="53" lean-forward="true" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="60" column="926" selection-start-line="60" selection-start-column="926" selection-end-line="60" selection-end-column="926" />
         </state>
       </provider>
     </entry>
