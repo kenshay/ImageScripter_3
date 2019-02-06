@@ -3,31 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/ip_address.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/ip_address.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Check_Dish_Guide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Check_Dish_Guide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Weather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_Check_Main_Settings_Page_For_Changes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_Check_Main_Settings_Page_For_Changes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_fusion_lms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_fusion_lms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_lms_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_lms_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_niles_lms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_niles_lms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_door_locks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_door_locks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_security_panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_security_panel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/4_climate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/4_climate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/4_media.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/4_media.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/5_irrigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/5_irrigation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/7_intercom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/7_intercom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/8_photos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/8_photos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/9_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/9_pool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEMP/ITP8_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/ITP8_Screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2a_lms_script.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_lms_script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2a_niles_lms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_niles_lms.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,74 +38,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_door_locks.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_door_locks.py">
+      <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="81">
+              <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_security_panel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_security_panel.py">
+      <file leaf-file-name="database_manager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="390">
+              <caret line="59" column="34" lean-forward="true" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4_climate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/4_climate.py">
+      <file leaf-file-name="elan_script.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="496">
+              <caret line="215" column="60" selection-start-line="215" selection-start-column="60" selection-end-line="215" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4_media.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/4_media.py">
+      <file leaf-file-name="screen_recorder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="632">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5_irrigation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/5_irrigation.py">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7_intercom.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/7_intercom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_photos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/8_photos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9_pool.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/9_pool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="236">
+              <caret line="1505" column="8" lean-forward="true" selection-start-line="1505" selection-start-column="8" selection-end-line="1505" selection-end-column="48" />
+              <folding>
+                <element signature="e#10#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,16 +106,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>get_B</find>
-      <find>IP</find>
-      <find>Waiting for Controller to come back online.</find>
-      <find>Error_ID</find>
-      <find>Custom_Standard_Item</find>
-      <find>clicked</find>
-      <find>Index_Time_String</find>
-      <find>self.Fail_Video</find>
       <find>self.Screen_Recorder</find>
-      <find>get_and_fill_listview_with_data</find>
       <find>traceback</find>
       <find>Saving Video</find>
       <find>Station_Name</find>
@@ -180,6 +127,15 @@
       <find>pushButton</find>
       <find>Pass =</find>
       <find>video</find>
+      <find>pass</find>
+      <find>Pass_Video</find>
+      <find>get_and_fill_listview_with_data</find>
+      <find>comboBox</find>
+      <find>DataBase_Manager</find>
+      <find>self.ui.stackedWidget</find>
+      <find>clicked</find>
+      <find>self.Pass_Video</find>
+      <find>pass_video_button_was_clicked</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -225,13 +181,10 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/database_manager.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_60.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/fail.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_61.py" />
@@ -252,12 +205,15 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/7_intercom.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/8_photos.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/9_pool.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1621" />
-    <option name="y" value="-320" />
+    <option name="x" value="-1334" />
+    <option name="y" value="-331" />
     <option name="width" value="974" />
     <option name="height" value="565" />
   </component>
@@ -270,7 +226,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -292,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scratch_61">
+  <component name="RunManager" selected="Python.database_viewer">
     <configuration name="database_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -392,11 +348,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch_61" />
         <item itemvalue="Python.database_viewer" />
-        <item itemvalue="Python.toolbar" />
         <item itemvalue="Python.database_manager" />
         <item itemvalue="Python.script_runner_class" />
+        <item itemvalue="Python.scratch_61" />
+        <item itemvalue="Python.toolbar" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +379,7 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23505573" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19858156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -600,16 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="834" lean-forward="true" selection-start-line="834" selection-end-line="834" />
-          <folding>
-            <element signature="e#10#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/mac.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -747,43 +693,6 @@
           <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="80" column="58" lean-forward="true" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="60" column="926" selection-start-line="60" selection-start-column="926" selection-end-line="60" selection-end-column="926" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -929,8 +838,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/9_pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="57">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1505" column="8" lean-forward="true" selection-start-line="1505" selection-start-column="8" selection-end-line="1505" selection-end-column="48" />
+          <folding>
+            <element signature="e#10#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="59" column="34" lean-forward="true" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="215" column="60" selection-start-line="215" selection-start-column="60" selection-end-line="215" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
