@@ -2,30 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/screenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Check_Dish_Guide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Check_Dish_Guide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Weather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_fusion_lms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_fusion_lms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_lms_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_lms_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_niles_lms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_niles_lms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/5_irrigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/5_irrigation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/14_____Check_That_Elan_Portal_Downloads_Work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/14_____Check_That_Elan_Portal_Downloads_Work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/1a____Remote_Connection_Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/1a____Remote_Connection_Tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/ELAN_Connect_Log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEMP/ITP8_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/ITP8_Screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,32 +30,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="14_____Check_That_Elan_Portal_Downloads_Work.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/14_____Check_That_Elan_Portal_Downloads_Work.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="92">
+              <caret line="145" selection-start-line="145" selection-end-line="145" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_____Change_Theme_To_Black_Then_Back_To_Neo___.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/1_____Change_Theme_To_Black_Then_Back_To_Neo___.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="109">
+              <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0a_Check_Theme_Settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="228">
+              <caret line="99" column="64" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -85,7 +122,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>comboBox</find>
       <find>DataBase_Manager</find>
       <find>self.ui.stackedWidget</find>
       <find>clicked</find>
@@ -115,6 +151,7 @@
       <find>yourstations</find>
       <find>your</find>
       <find>lmsicon</find>
+      <find>speaker</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -136,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_63.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" />
@@ -187,15 +223,17 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/11_Count_InputOutput_Communication_Devices.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/12_AddAllZoneControllers.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/13_Close_Configurator_Mandatory.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1582" />
-    <option name="y" value="-331" />
-    <option name="width" value="974" />
-    <option name="height" value="563" />
+    <option name="x" value="-1288" />
+    <option name="y" value="-321" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -227,8 +265,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14_____Check_That_Elan_Portal_Downloads_Work">
-    <configuration name="10____Set_Location_And_Weather_By_Country_City_Restart_Check___" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.0a_Calendar">
+    <configuration name="0a_Calendar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,15 +274,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/10____Set_Location_And_Weather_By_Country_City_Restart_Check___.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="13____Set_Time_Zone_Restart_Check___" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -263,6 +304,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="14_____Check_That_Elan_Portal_Downloads_Work" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -281,8 +325,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="8_____Check_Network_Scanner___" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="script_runner_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,17 +337,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/8_____Check_Network_Scanner___.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="9_____Restart_Software___" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toolbar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,30 +358,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/imagegrabber" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/9_____Restart_Software___.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.8_____Check_Network_Scanner___" />
-      <item itemvalue="Python.9_____Restart_Software___" />
-      <item itemvalue="Python.10____Set_Location_And_Weather_By_Country_City_Restart_Check___" />
       <item itemvalue="Python.13____Set_Time_Zone_Restart_Check___" />
       <item itemvalue="Python.14_____Check_That_Elan_Portal_Downloads_Work" />
+      <item itemvalue="Python.script_runner_class" />
+      <item itemvalue="Python.toolbar" />
+      <item itemvalue="Python.0a_Calendar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0a_Calendar" />
+        <item itemvalue="Python.script_runner_class" />
+        <item itemvalue="Python.toolbar" />
         <item itemvalue="Python.14_____Check_That_Elan_Portal_Downloads_Work" />
         <item itemvalue="Python.13____Set_Time_Zone_Restart_Check___" />
-        <item itemvalue="Python.10____Set_Location_And_Weather_By_Country_City_Restart_Check___" />
-        <item itemvalue="Python.9_____Restart_Software___" />
-        <item itemvalue="Python.8_____Check_Network_Scanner___" />
       </list>
     </recent_temporary>
   </component>
@@ -349,60 +402,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
+    <frame x="-1288" y="-321" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23100305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918947" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.075987846" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5126646" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,40 +534,14 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/2c____Viewer_Settings_Unconfigured_Check_Pages___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/3_____Backup_Config___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/5_____Restore_Config___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/7_____Check_Save_The_Last_Screen_Is_Working___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/7_____Set_System_Description_Restart_Check___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/8_____Check_Network_Scanner___.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/9_____Restart_Software___.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/10____Set_Location_And_Weather_By_Country_City_Restart_Check___.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -547,23 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_65.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_65.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Climate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -891,6 +888,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="99" column="64" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
