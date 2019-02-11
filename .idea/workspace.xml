@@ -5,13 +5,273 @@
       <change beforePath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/Itp8/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_aaaaaaaaaaaaa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_aaxxasdasdasxxxaaa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_allarearmed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_allaredisarmed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_alldvrcontrols.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_allvidcontrols.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_allzonesreadypagelooksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_armed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_atatatmiddletop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_attentionpassword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_audiooff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_audioon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_auto6860686476857672.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_autocooldown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_autocoolsmall76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_autocoolsmall77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_autocoolup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_automode8560updown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_automode8updown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_automodeoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_automodeon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_automodeon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_autooff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_autoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_availableitems.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_away.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_big85.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigcool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigcool87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigheat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigheat61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigheat63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigheat81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bigheat82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_blankarea2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bluescreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_bluescreenlarge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_changesettingspasscode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_checkavailable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_climate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_climatehistorypageicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_climatehome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_climateonhome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_cool85.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_coolbig90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_coolisthemodethatson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_coolmode85updown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_coolmodeoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_coolmodeon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_cooloff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_cooloffmodeselectinmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_coolon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_cooltopright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_custompagelooksgoodunsecureallsecureall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_disarm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_doorislocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_doorisunlocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_doorlocksettings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrbigback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrblockback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrblockforward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrforward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrforwardback.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrmiddle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrminus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrpause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_dvrplus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_elan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_elanapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_elanhome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_elaninterfacecodedisable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_elanlog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_elanlogobig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_enter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanauto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanauto55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanautomodeon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanautomodeon22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanautomodeon6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanisonauto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmode2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeautoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodegoestoauto1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeisinauto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeissettoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanmodeon55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanoninoptions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanonintheinnermenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fanonintheinnndermenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_four.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_four2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fourcamallview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_frontdoorbackdoorfirstfloormotionsideentrance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_frontdoorbackdoorfirstfloormotionsideentrancelooksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_fullscreenmomentarytoggle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gobackarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gobacktarrow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gonextarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gonextarrow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gonextarrow3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gotosecurityhistor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_gotosecurityhistory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_groupone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_grouppagelocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_grouppageunlocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heat68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heat68606864.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heat69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatasdasdasdasd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatbig68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatbig88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatcool22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatcooltopbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatdown2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatisoff122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmode60down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmode60up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmode60updown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmodeoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmodeoff3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmodeon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmodeon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmodeon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatmodeon88234234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatoff2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heaton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatsmall68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatsmall69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heattopbarred.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_heatup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_highinner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_highres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_highrez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_highrezinmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_holdfor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_homeicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_houseLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_houseone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_houseone2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_houseonepagelooksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_keypad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_locklogpage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_lockscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_logpage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_logpagelooksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_lowrez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_lowrezmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_mediuminner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_mediumrezmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_medres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_medrez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_middleshutter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_momentaryvid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_nextdoorlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_nextgroup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_nextsecpart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_nocamcontrols.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_overview_temp_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_permanenthold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_playvideo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_preset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_preset7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_ptime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_quadfour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_quadmax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_readytoarm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_resisonhigh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_resisonlow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_resisonmed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_roomtemp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_roomtempheat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_runprogram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_runprogram2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_runprograminmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_scrolldown2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_scrollvideodown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_secnavleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_secnavright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_seconddoorlocksetting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_secureallbutton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_security.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_securitycustompage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_securitypage2looksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_securitypagelooksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_securitypagelooksgood3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_securitypagelooksgood4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_securitypagelooksgood44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_settingswheel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_shuddar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_shudder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_shudder2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_sideentrancegaragedoorlooksgood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_skipbackdvr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_skipforward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_smalllock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_somearealldisarmed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_stay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_tempdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_tempholddown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_tempholdup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_tempup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_test2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_thirddoorlocksetting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_time645.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_time715am.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_time745am.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_time7am.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timecheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedhold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedhold2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedhold3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedhold888234234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedholdinmenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedholdinmenu2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timedown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timeicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_timeup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_toggleactivated.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_togglevid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_touchpanelsetuppage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_unlocaksmall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_unlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_unlocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_unlocklogpage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_unsecureallbutton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_verifiylockpage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_videocameras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zonelistpage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zoomin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zoomin2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zoomincam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zoomout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zoomout2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zoomoutcam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zwavedoorlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Applications_And_Devices/TP12/Android_zwavelock.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagegrabber/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEMP/ITP8_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/ITP8_Screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/data/deviceApplicationObject" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/data/deviceApplicationObject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TEMP/PC_Screenshot.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,31 +290,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
+      <file leaf-file-name="0_Email_If_Build_Is_Different.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="145" selection-start-line="145" selection-end-line="145" />
+            <state relative-caret-position="126">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#2#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
+      <file leaf-file-name="0a_Check_Theme_Settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="546">
+              <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Classes.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/pytank/Core/Classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="2626" column="26" selection-start-line="2626" selection-end-line="2717" selection-end-column="56" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rename.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Elan_Tools/Cloud_Drive/System_Tools/Rename.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toolbar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -62,51 +370,6 @@
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="160" selection-start-line="160" selection-end-line="160" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_speakercraft_lms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -122,8 +385,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>DataBase_Manager</find>
-      <find>self.ui.stackedWidget</find>
       <find>clicked</find>
       <find>self.Pass_Video</find>
       <find>pass_video_button_was_clicked</find>
@@ -152,6 +413,8 @@
       <find>your</find>
       <find>lmsicon</find>
       <find>speaker</find>
+      <find>Max</find>
+      <find>def Max</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -173,11 +436,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_63.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Check_Dish_Guide.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Weather.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_64.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2a_fusion_lms.py" />
@@ -189,7 +447,6 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/1a____Remote_Connection_Tests.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/14_____Check_That_Elan_Portal_Downloads_Work.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_65.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Climate.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_InputOutput.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Irrigation.py" />
@@ -224,14 +481,20 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/12_AddAllZoneControllers.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/13_Close_Configurator_Mandatory.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py" />
+        <option value="C:/Elan_Tools/Cloud_Drive/System_Tools/Rename.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/__init__.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" />
+        <option value="C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/pytank/Core/Classes.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1288" />
-    <option name="y" value="-321" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="-1610" />
+    <option name="y" value="-320" />
+    <option name="width" value="974" />
+    <option name="height" value="563" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,7 +506,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
+    <property name="last_opened_file_path" value="C:/Elan_Tools/Cloud_Drive/System_Tools/Rename.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -265,7 +528,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0a_Calendar">
+  <component name="RunManager" selected="Python.0a_Check_Theme_Settings">
+    <configuration name="0_Email_If_Build_Is_Different" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ImageScripter_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="0a_Calendar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,11 +564,8 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="13____Set_Time_Zone_Restart_Check___" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="0a_Check_Theme_Settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,20 +573,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/13____Set_Time_Zone_Restart_Check___.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="14_____Check_That_Elan_Portal_Downloads_Work" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,39 +591,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Elan_Tools/Cloud_Drive/System_Tools" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/14_____Check_That_Elan_Portal_Downloads_Work.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Elan_Tools/Cloud_Drive/System_Tools/Rename.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="script_runner_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ImageScripter_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="toolbar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -367,24 +618,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.13____Set_Time_Zone_Restart_Check___" />
-      <item itemvalue="Python.14_____Check_That_Elan_Portal_Downloads_Work" />
-      <item itemvalue="Python.script_runner_class" />
       <item itemvalue="Python.toolbar" />
       <item itemvalue="Python.0a_Calendar" />
+      <item itemvalue="Python.0_Email_If_Build_Is_Different" />
+      <item itemvalue="Python.0a_Check_Theme_Settings" />
+      <item itemvalue="Python.Rename" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0a_Calendar" />
-        <item itemvalue="Python.script_runner_class" />
+        <item itemvalue="Python.0a_Check_Theme_Settings" />
+        <item itemvalue="Python.Rename" />
         <item itemvalue="Python.toolbar" />
-        <item itemvalue="Python.14_____Check_That_Elan_Portal_Downloads_Work" />
-        <item itemvalue="Python.13____Set_Time_Zone_Restart_Check___" />
+        <item itemvalue="Python.0_Email_If_Build_Is_Different" />
+        <item itemvalue="Python.0a_Calendar" />
       </list>
     </recent_temporary>
   </component>
@@ -402,45 +650,56 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="-321" width="1296" height="1000" extended-state="6" />
+    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30192503" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918947" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout>
+    <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
@@ -537,22 +796,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/8_____Check_Network_Scanner___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/9_____Restart_Software___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/10____Set_Location_And_Weather_By_Country_City_Restart_Check___.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/13____Set_Time_Zone_Restart_Check___.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -593,15 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
-          <folding>
-            <element signature="e#2#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#1#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,9 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#1#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,9 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#2#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -781,9 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#4#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,9 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#1#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,9 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#2#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,9 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#3#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,9 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#2#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,23 +1074,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/UpgradeController.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/14_____Check_That_Elan_Portal_Downloads_Work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-end-line="33" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -905,16 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="99" column="64" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
@@ -932,17 +1122,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_66.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#2#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="99" column="64" selection-start-line="99" selection-start-column="64" selection-end-line="99" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Elan_Tools/Cloud_Drive/System_Tools/Rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/pytank/Core/Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="2626" column="26" selection-start-line="2626" selection-end-line="2717" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
