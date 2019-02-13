@@ -2,49 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_Check_Theme_Settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Climate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Climate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_InputOutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_InputOutput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Interface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Lighting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Lighting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Media.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Media.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Messaging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Pool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Security.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Security.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_UPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_UPS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Video.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0a_FieldChange_Video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0b_Start_Configurator_Mandatory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/10_Count_Interface_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/10_Count_Interface_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/11_Count_InputOutput_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/11_Count_InputOutput_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/12_AddAllZoneControllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/12_AddAllZoneControllers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/13_Close_Configurator_Mandatory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/1_Count_Security_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/1_Count_Security_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/1_Count_Security_Panels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/1_Count_Security_Panels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/1_aTV_Media_Script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/1_aTV_Media_Script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/2_Count_Climate_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/2_Count_Climate_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/2_Count_Climate_Thermostats.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/2_Count_Climate_Thermostats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/3_Count_Lighting_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/3_Count_Lighting_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/3_Count_Lighting_Interfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/3_Count_Lighting_Interfaces.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Keypad_Controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Keypad_Controllers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_MP3_Players.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_MP3_Players.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Tuners.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Tuners.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Video_Servers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Video_Servers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Zone_Controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Zone_Controllers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/5_Count_Video_Cameras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/5_Count_Video_Cameras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/5_Count_Video_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/5_Count_Video_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/6_Count_Messaging_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/6_Count_Messaging_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/7_Count_Irrigation_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/7_Count_Irrigation_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/7_Count_Irrigation_Controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/7_Count_Irrigation_Controllers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/8_Count_Pool_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/8_Count_Pool_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/8_Count_Pool_Controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/8_Count_Pool_Controllers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/9_Count_UPS_Communication_Devices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/9_Count_UPS_Communication_Devices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/9_Count_UPS_Power_Supplies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/9_Count_UPS_Power_Supplies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,115 +23,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5_Count_Video_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/5_Count_Video_Communication_Devices.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="130">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
               <folding>
-                <element signature="e#1#55#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6_Count_Messaging_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/6_Count_Messaging_Communication_Devices.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state>
               <folding>
-                <element signature="e#2#56#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7_Count_Irrigation_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/7_Count_Irrigation_Communication_Devices.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/importer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
               <folding>
-                <element signature="e#4#58#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8_Count_Pool_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/8_Count_Pool_Communication_Devices.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_Count_Pool_Controllers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/8_Count_Pool_Controllers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="173">
+              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
               <folding>
-                <element signature="e#2#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9_Count_UPS_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/9_Count_UPS_Communication_Devices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-              <folding>
-                <element signature="e#3#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9_Count_UPS_Power_Supplies.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/9_Count_UPS_Power_Supplies.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-              <folding>
-                <element signature="e#3#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10_Count_Interface_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/10_Count_Interface_Communication_Devices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-              <folding>
-                <element signature="e#3#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11_Count_InputOutput_Communication_Devices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/11_Count_InputOutput_Communication_Devices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="12_AddAllZoneControllers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/12_AddAllZoneControllers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="113" column="12" lean-forward="true" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="12" />
-              <folding>
-                <element signature="e#16#34#0" expanded="true" />
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,7 +90,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>WaitVanish</find>
       <find>shutil</find>
       <find>weather</find>
       <find>couldnotresolveip</find>
@@ -218,6 +119,7 @@
       <find>###############</find>
       <find>ListView_Class</find>
       <find>Max</find>
+      <find>Sleep</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -241,15 +143,14 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_71.py" />
-        <option value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
-        <option value="C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/functions.py" />
+        <option value="$PROJECT_DIR$/../Elan_Tools/ImageScripter/Script_Runner/Main.py" />
+        <option value="$PROJECT_DIR$/../Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/functions.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/__init__.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_73.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/pc.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_72.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/functions.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/widget_control.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_74.py" />
@@ -290,6 +191,7 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/10_Count_Interface_Communication_Devices.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/11_Count_InputOutput_Communication_Devices.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/12_AddAllZoneControllers.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py" />
       </list>
     </option>
   </component>
@@ -309,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="last_opened_file_path" value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Elan_Tools/ImageScripter/Script_Runner/Main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -349,6 +251,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="11_Count_InputOutput_Communication_Devices" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -367,6 +272,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="12_AddAllZoneControllers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -385,6 +293,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="13_Close_Configurator_Mandatory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -403,6 +314,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="scratch_74" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -421,6 +335,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.10_Count_Interface_Communication_Devices" />
@@ -453,49 +370,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4052685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4051144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39817628" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.366782" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -598,20 +512,9 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/4_Count_Media_Sources_Tuners.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#1#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/pc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -632,14 +535,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_72.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/functions.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_72.py" />
+    <entry file="file://$PROJECT_DIR$/../Elan_Tools/ImageScripter/ProgramData/SystemFiles/Python/Lib/site-packages/elan/functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="98" column="26" lean-forward="true" selection-start-line="95" selection-end-line="100" selection-end-column="26" />
@@ -649,21 +546,26 @@
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/importer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="173">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -687,13 +589,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_74.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_74.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/UpgradeController.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Quick_Tests/1_____Change_Theme_To_Black_Then_Back_To_Neo___.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -775,13 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/13_Close_Configurator_Mandatory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/13_Close_Configurator_Mandatory.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/AddRemove/0_Email_If_Build_Is_Different.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
