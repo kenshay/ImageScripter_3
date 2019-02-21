@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+            <state relative-caret-position="230">
+              <caret line="82" column="52" lean-forward="true" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="162" column="13" lean-forward="true" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -171,7 +171,6 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_security_panel.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/itp8.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0b_Calendar.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/3_Interface_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/3_Security_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/5_Content_Check_Pages.py" />
@@ -187,6 +186,7 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/8.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
       </list>
     </option>
   </component>
@@ -810,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8_PC/11_PC_Calendar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -829,8 +819,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="162" column="13" lean-forward="true" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="82" column="52" lean-forward="true" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
