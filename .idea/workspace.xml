@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +37,38 @@
       <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+            <state relative-caret-position="446">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variable_file_getter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="708" column="52" lean-forward="true" selection-start-line="708" selection-start-column="8" selection-end-line="708" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Duel_Video_Player.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/Duel_Video_Player.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="60" column="47" lean-forward="true" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -56,7 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>WaitContinue</find>
       <find>client</find>
       <find>paramiko.SSHClient</find>
       <find>SetThreshold</find>
@@ -86,6 +113,7 @@
       <find>pagelayoutclimatesystempage</find>
       <find>addnewlockgroupwindow</find>
       <find>importchannelsandgroupswindow</find>
+      <find>lineEdit</find>
     </findStrings>
     <replaceStrings>
       <replace>Click</replace>
@@ -110,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/11_Ups_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/12_Interface_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/13_InputOutput_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/14_EventMapper_Check_Pages.py" />
@@ -161,6 +188,7 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/7.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/8.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
       </list>
     </option>
   </component>
@@ -479,8 +507,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" />
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_Check_Main_Settings_Page_For_Changes.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/Reboot_ITP8.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py">
@@ -599,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="264" column="43" lean-forward="true" selection-start-line="264" selection-start-column="43" selection-end-line="264" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -787,10 +806,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/Duel_Video_Player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="60" column="47" lean-forward="true" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Elan_Tools/ImageScripter/Script_Runner/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="708" column="52" lean-forward="true" selection-start-line="708" selection-start-column="8" selection-end-line="708" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/variable_file_getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        <state relative-caret-position="446">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
