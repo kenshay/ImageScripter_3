@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ImageScripter_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Init_AutoComplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8_PC/15_PC_Check_Main_Settings_Page_For_Changes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -35,6 +31,24 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8_PC/11_PC_Calendar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="162" column="13" lean-forward="true" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -160,7 +174,6 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/3_Interface_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/3_Security_Check_Pages.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/5_Content_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Reboot_ITP8.py" />
@@ -173,6 +186,7 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/7.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/8.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
       </list>
     </option>
   </component>
@@ -324,9 +338,9 @@
     <list>
       <item itemvalue="Python.3_Security_Check_Pages" />
       <item itemvalue="Python.5_Content_Check_Pages" />
-      <item itemvalue="Python.script_runner_class" />
-      <item itemvalue="Python.screen_recorder" />
       <item itemvalue="Python.database_viewer" />
+      <item itemvalue="Python.screen_recorder" />
+      <item itemvalue="Python.script_runner_class" />
     </list>
     <recent_temporary>
       <list>
@@ -353,6 +367,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-321" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -495,7 +510,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Calendar.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_Check_Main_Settings_Page_For_Changes.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/Reboot_ITP8.py" />
@@ -681,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="69" column="54" lean-forward="true" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -810,6 +817,20 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8_PC/11_PC_Calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="162" column="13" lean-forward="true" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
         </state>
       </provider>
     </entry>
