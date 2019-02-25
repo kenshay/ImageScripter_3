@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30164a2-f83d-4e6c-b319-902bd689835b" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.ui" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" afterDir="false" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,23 +30,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="screen_recorder.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1530">
               <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+=======
+            <state relative-caret-position="230">
+              <caret line="82" column="52" lean-forward="true" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database_viewer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8_PC/11_PC_Calendar.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="221">
               <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="74" column="58" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
             </state>
           </provider>
         </entry>
@@ -193,10 +236,8 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/3_security_panel.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/itp8.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0b_Calendar.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/3_Interface_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/3_Security_Check_Pages.py" />
-        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Smoke_Station/5_Content_Check_Pages.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/image.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/0a_Reboot_ITP8.py" />
@@ -209,9 +250,14 @@
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/7.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Test/8.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py" />
+<<<<<<< HEAD
         <option value="C:/Elan_Tools/ImageScripter/Script_Runner/Main.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_manager.py" />
         <option value="$PROJECT_DIR$/Lib/site-packages/database_viewer/database_viewer.py" />
+=======
+        <option value="$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
       </list>
     </option>
   </component>
@@ -254,8 +300,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.database_viewer">
     <configuration name="5_Content_Check_Pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.script_runner_class">
+    <configuration name="3_Security_Check_Pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
       <module name="ImageScripter_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +323,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="database_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -290,6 +344,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="database_viewer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -308,6 +365,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="screen_recorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -326,6 +386,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="script_runner_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ImageScripter_2" />
@@ -344,19 +407,29 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.5_Content_Check_Pages" />
-      <item itemvalue="Python.script_runner_class" />
-      <item itemvalue="Python.screen_recorder" />
       <item itemvalue="Python.database_viewer" />
+<<<<<<< HEAD
       <item itemvalue="Python.database_manager" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.database_viewer" />
         <item itemvalue="Python.database_manager" />
+=======
+      <item itemvalue="Python.screen_recorder" />
+      <item itemvalue="Python.script_runner_class" />
+    </list>
+    <recent_temporary>
+      <list>
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
         <item itemvalue="Python.script_runner_class" />
+        <item itemvalue="Python.database_viewer" />
         <item itemvalue="Python.screen_recorder" />
         <item itemvalue="Python.5_Content_Check_Pages" />
       </list>
@@ -376,19 +449,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-286" width="1936" height="1096" extended-state="6" />
+    <frame x="-1288" y="-321" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26342452" />
+=======
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5294118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39817628" />
+<<<<<<< HEAD
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -408,13 +487,44 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22611037" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39817628" />
+=======
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22611037" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39817628" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928064" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Python Console" order="8" />
+=======
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -528,6 +638,11 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_Check_Main_Settings_Page_For_Changes.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/2_IR.py" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8/Reboot_ITP8.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/device.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -685,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagegrabber/toolbar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="238">
+          <caret line="74" column="58" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -701,13 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="69" column="54" lean-forward="true" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -792,6 +900,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -799,6 +908,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/elan_script.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -808,6 +919,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/screen_recorder.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1530">
           <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
         </state>
@@ -848,6 +960,10 @@
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="595">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+>>>>>>> 5ea2b690da942e032815f8e68cf98c1ff645e5fb
         </state>
       </provider>
     </entry>
@@ -857,6 +973,30 @@
           <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Scripts/Frank_ITP8_PC/11_PC_Calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/elan/Custom_Applications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="127" column="14" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/imagescripter/core/script_runner_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="82" column="52" lean-forward="true" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
