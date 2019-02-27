@@ -1,0 +1,8 @@
+pyinstaller --onefile <your_script_name>.py
+
+
+pyinstaller --onefile "C:\ImageScripter_2\Scripts\dist\Start_Database_Viewer.py"
+
+
+
+pyinstaller --onefile --noconsole "C:\ImageScripter_2\Scripts\dist\Start_Database_Viewer.py"
