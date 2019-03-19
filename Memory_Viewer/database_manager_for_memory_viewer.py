@@ -19,7 +19,7 @@ class Database_Manager_Class():
 
     def Log_Memory_Into_database(self):
         print("Logging Memory Data Into Database")
-        SSH_Manager = SSH_Manager_Class(ipaddress='192.168.0.104', port=2199, username='root', password='elanscX')
+        SSH_Manager = SSH_Manager_Class(ipaddress='192.168.0.121', port=2199, username='root', password='elanscX')
         Index_Time = get_index_time()
         Controller_Name = SSH_Manager.get_Controller_Name()
         Time_Date_Year = getTime()
