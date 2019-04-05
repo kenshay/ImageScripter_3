@@ -15,7 +15,7 @@ class Database_Manager_Class():
         if os.path.isfile(self.database_location_file) == False:
             self.Create_New_Database()
         else:
-            print('Fount Database -> ',self.database_location_file)
+            print('Found Database -> ',self.database_location_file)
 
     def Log_Memory_Into_database(self):
         print("Logging Memory Data Into Database")
