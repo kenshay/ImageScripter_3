@@ -137,6 +137,7 @@ def copy_tree(src, dst, preserve_mode=1, preserve_times=1,
     outputs = []
 
     for n in names:
+        print(n)
         src_name = os.path.join(src, n)
         dst_name = os.path.join(dst, n)
 
