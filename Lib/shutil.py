@@ -405,6 +405,7 @@ def _rmtree_safe_fd(topfd, path, onerror):
         return
     for entry in entries:
         fullname = os.path.join(path, entry.name)
+        print(fullname)
         try:
             is_dir = entry.is_dir(follow_symlinks=False)
             if is_dir:
