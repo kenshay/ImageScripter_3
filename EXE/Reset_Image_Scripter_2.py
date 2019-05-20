@@ -4,7 +4,6 @@ import shutil, errno
 elan_folder = r"C:\ImageScripter_2\Lib\site-packages\elan"
 old_elan = r"C:\Settings\elan"
 
-
 def copyanything(src, dst):
     try:
         shutil.copytree(src, dst)
@@ -22,10 +21,12 @@ os.system(git + ' fetch --all')
 os.system(git + ' reset --hard origin/master')
 os.system(git + ' clean -f')
 os.system(git + ' status')
+
 try:
-    os.rmdir(old_elan)
+    shutil.rmtree(old_elan)
 except Exception as e:
     print(e)
+print('Please Wait...')
 copyanything(elan_folder, old_elan)
 input("Finished Reset")
 
