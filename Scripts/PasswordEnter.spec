@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\Automation3\\Desktop\\PasswordEnter.py'],
+a = Analysis(['E:\\PasswordEnter\\PasswordEnter.py'],
              pathex=['C:\\ImageScripter_2\\Scripts'],
              binaries=[],
              datas=[],
