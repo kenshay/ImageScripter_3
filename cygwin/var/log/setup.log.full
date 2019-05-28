@@ -1,0 +1,897 @@
+2019/05/28 11:19:16 Starting cygwin install, version 2.897
+2019/05/28 11:19:16 User has backup/restore rights
+2019/05/28 11:19:16 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2019/05/28 11:19:16 Current Directory: C:\Users\Automation3\Downloads
+2019/05/28 11:19:16 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2019/05/28 11:19:35 source: network install
+2019/05/28 11:20:22 root: C:\ImageScripter_2\cygwin system
+2019/05/28 11:20:39 Selected local directory: C:\Users\Automation3\Downloads
+2019/05/28 11:20:43 net: Preconfig
+Cached mirror list unavailable
+Fetched URL: https://cygwin.com/mirrors.lst
+2019/05/28 11:20:51 site: ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/
+2019/05/28 11:20:59 connection error: 550 Failed to change directory.   fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/setup.zst.sig
+2019/05/28 11:21:06 connection error: 550 Failed to change directory.   fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/setup.zst
+Fetched URL: ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/setup.xz.sig
+Fetched URL: ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/setup.xz
+compress_xz::bid_xz: success: 48
+compress_xz::bid_xz: success: 48
+2019/05/28 11:21:24 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+.ini setup_version is 2.897, our setup_version is 2.897
+2019/05/28 11:21:24 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2019/05/28 11:21:24 solving: 37 tasks, update: yes, use test packages: no
+libsolv: solver started
+libsolv: dosplitprovides=0, noupdateprovide=0, noinfarchcheck=0
+libsolv: allowuninstall=0, allowdowngrade=0, allownamechange=1, allowarchchange=0, allowvendorchange=1
+libsolv: promoteepoch=0, forbidselfconflicts=0
+libsolv: obsoleteusesprovides=0, implicitobsoleteusesprovides=0, obsoleteusescolors=0, implicitobsoleteusescolors=0
+libsolv: dontinstallrecommended=0, addalreadyrecommended=0
+libsolv: number of solvables: 48812, memory used: 2669 K
+libsolv: number of ids: 26153 + 48811
+libsolv: string memory used: 102 K array + 448 K data,  rel memory used: 572 K array
+libsolv: string hash memory: 256 K, rel hash memory : 512 K
+libsolv: provide ids: 11198
+libsolv: provide space needed: 36347 + 97622
+libsolv: shrunk whatprovidesdata from 36347 to 36347
+libsolv: shrunk whatprovidesauxdata from 36347 to 25146
+libsolv: whatprovides memory used: 296 K id array, 523 K data
+libsolv: whatprovidesaux memory used: 102 K id array, 98 K data
+libsolv: WARNING: pool_addfileprovides was not called, this may result in slow operation
+libsolv: lazywhatprovidesq size: 0 entries
+libsolv: createwhatprovides took 3 ms
+libsolv: obsoletes data: 1 entries
+libsolv: added 683 pkg rules for installed solvables
+libsolv: added 0 pkg rules for updaters of installed solvables
+libsolv: added 0 pkg rules for packages involved in a job
+libsolv: added 0 pkg rules because of weak dependencies
+libsolv: 188 of 24435 installable solvables considered for solving
+libsolv: pruned rules from 684 to 684
+libsolv:   binary: 175
+libsolv:   normal: 508, 1396 literals
+libsolv: pkg rule memory used: 16 K
+libsolv: pkg rule creation took 1 ms
+libsolv: choice rule creation took 0 ms
+libsolv: 683 pkg rules, 2 * 1 update rules, 37 job rules, 0 infarch rules, 0 dup rules, 0 choice rules, 0 best rules
+libsolv: overall rule memory used: 16 K
+libsolv: solving...
+libsolv: resolving job rules
+libsolv: resolving installed packages
+libsolv: deciding orphaned packages
+libsolv: solver statistics: 0 learned rules, 0 unsolvable, 0 minimization steps
+libsolv: done solving.
+libsolv: solver took 0 ms
+libsolv: final solver statistics: 0 problems, 0 learned rules, 0 unsolvable
+libsolv: solver_solve took 4 ms
+libsolv: 
+libsolv: transaction:
+libsolv:   install   _autorebase-001007-1.any
+libsolv: 
+libsolv:   install   alternatives-1.3.30c-10.any
+libsolv: 
+libsolv:   install   base-cygwin-3.8-1.any
+libsolv: 
+libsolv:   install   base-files-4.3-2.any
+libsolv: 
+libsolv:   install   bash-4.4.12-3.any
+libsolv: 
+libsolv:   install   coreutils-8.26-2.any
+libsolv: 
+libsolv:   install   crypto-policies-20190218-1.any
+libsolv: 
+libsolv:   install   cygutils-1.4.16-2.any
+libsolv: 
+libsolv:   install   cygwin-3.0.7-1.any
+libsolv: 
+libsolv:   install   dash-0.5.9.1-1.any
+libsolv: 
+libsolv:   install   diffutils-3.5-2.any
+libsolv: 
+libsolv:   install   editrights-1.03-1.any
+libsolv: 
+libsolv:   install   file-5.32-1.any
+libsolv: 
+libsolv:   install   findutils-4.6.0-1.any
+libsolv: 
+libsolv:   install   gawk-5.0.0-1.any
+libsolv: 
+libsolv:   install   getent-2.18.90-4.any
+libsolv: 
+libsolv:   install   grep-3.0-2.any
+libsolv: 
+libsolv:   install   gzip-1.8-1.any
+libsolv: 
+libsolv:   install   hostname-3.13-1.any
+libsolv: 
+libsolv:   install   info-6.6-1.any
+libsolv: 
+libsolv:   install   ipc-utils-1.0-2.any
+libsolv: 
+libsolv:   install   libreadline7-7.0.3-3.any
+libsolv: 
+libsolv:   install   libssl1.1-1.1.1b-1.any
+libsolv: 
+libsolv:   install   login-1.13-1.any
+libsolv: 
+libsolv:   install   man-db-2.7.6.1-1.any
+libsolv: 
+libsolv:   install   mintty-3.0.0-1.any
+libsolv: 
+libsolv:   install   ncurses-6.0-12.20171125.any
+libsolv: 
+libsolv:   install   openssl-1.1.1b-1.any
+libsolv: 
+libsolv:   install   rebase-4.4.4-1.any
+libsolv: 
+libsolv:   install   run-1.3.4-2.any
+libsolv: 
+libsolv:   install   sed-4.4-1.any
+libsolv: 
+libsolv:   install   tar-1.29-1.any
+libsolv: 
+libsolv:   install   terminfo-6.0-12.20171125.any
+libsolv: 
+libsolv:   install   tzdata-2018i-1.any
+libsolv: 
+libsolv:   install   util-linux-2.33.1-1.any
+libsolv: 
+libsolv:   install   vim-minimal-8.1.1240-1.any
+libsolv: 
+libsolv:   install   which-2.20-2.any
+libsolv: 
+libsolv:   install   libsigsegv2-2.10-2.any
+libsolv: 
+libsolv:   install   libiconv2-1.14-3.any
+libsolv: 
+libsolv:   install   libncursesw10-6.0-12.20171125.any
+libsolv: 
+libsolv:   install   libblkid1-2.33.1-1.any
+libsolv: 
+libsolv:   install   libfdisk1-2.33.1-1.any
+libsolv: 
+libsolv:   install   libintl8-0.19.8.1-2.any
+libsolv: 
+libsolv:   install   libsmartcols1-2.33.1-1.any
+libsolv: 
+libsolv:   install   libuuid1-2.33.1-1.any
+libsolv: 
+libsolv:   install   zlib0-1.2.11-1.any
+libsolv: 
+libsolv:   install   bzip2-1.0.6-3.any
+libsolv: 
+libsolv:   install   xz-5.2.3-1.any
+libsolv: 
+libsolv:   install   groff-1.22.4-1.any
+libsolv: 
+libsolv:   install   less-530-1.any
+libsolv: 
+libsolv:   install   libgdbm4-1.12-1.any
+libsolv: 
+libsolv:   install   libiconv-1.14-3.any
+libsolv: 
+libsolv:   install   libpipeline1-1.4.0-1.any
+libsolv: 
+libsolv:   install   ca-certificates-2.30-1.any
+libsolv: 
+libsolv:   install   libgcc1-7.4.0-1.any
+libsolv: 
+libsolv:   install   libstdc++6-7.4.0-1.any
+libsolv: 
+libsolv:   install   libpcre1-8.43-1.any
+libsolv: 
+libsolv:   install   libargp-20110921-3.any
+libsolv: 
+libsolv:   install   libgmp10-6.1.2-1.any
+libsolv: 
+libsolv:   install   libmpfr6-4.0.2-1.any
+libsolv: 
+libsolv:   install   libpopt0-1.16-2.any
+libsolv: 
+libsolv:   install   libpopt-common-1.16-2.any
+libsolv: 
+libsolv:   install   libattr1-2.4.48-2.any
+libsolv: 
+libsolv:   install   tzcode-2018i-1.any
+libsolv: 
+libsolv:   install   p11-kit-0.23.15-1.any
+libsolv: 
+libsolv:   install   p11-kit-trust-0.23.15-1.any
+libsolv: 
+libsolv:   install   libbz2_1-1.0.6-3.any
+libsolv: 
+libsolv:   install   liblzma5-5.2.3-1.any
+libsolv: 
+libsolv:   install   libp11-kit0-0.23.15-1.any
+libsolv: 
+libsolv:   install   libtasn1_6-4.13-1.any
+libsolv: 
+libsolv:   install   libffi6-3.2.1-2.any
+libsolv: 
+libsolv: 
+libsolv: orphaned packages:
+libsolv:   base-0.0-0.any (kept)
+libsolv: 
+libsolv: ordering transaction
+libsolv: transaction elements: 71
+libsolv: edges: 179, edge space: 212
+libsolv: edge creation took 0 ms
+libsolv: cycle: --> 
+libsolv: coreutils-8.26-2.any ##11##> 
+libsolv: tzcode-2018i-1.any --10--> 
+libsolv: bash-4.4.12-3.any --10--> 
+libsolv: 
+libsolv: cycles broken: 1
+libsolv: cycle breaking took 0 ms
+libsolv: cycle edge creation took 0 ms
+libsolv: invedge space: 265
+libsolv: creating new transaction took 0 ms
+libsolv: transaction ordering took 0 ms
+libsolv: 71 installed packages:
+libsolv:   - _autorebase-001007-1.any
+libsolv:   - alternatives-1.3.30c-10.any
+libsolv:   - base-cygwin-3.8-1.any
+libsolv:   - base-files-4.3-2.any
+libsolv:   - bash-4.4.12-3.any
+libsolv:   - bzip2-1.0.6-3.any
+libsolv:   - ca-certificates-2.30-1.any
+libsolv:   - coreutils-8.26-2.any
+libsolv:   - crypto-policies-20190218-1.any
+libsolv:   - cygutils-1.4.16-2.any
+libsolv:   - cygwin-3.0.7-1.any
+libsolv:   - dash-0.5.9.1-1.any
+libsolv:   - diffutils-3.5-2.any
+libsolv:   - editrights-1.03-1.any
+libsolv:   - file-5.32-1.any
+libsolv:   - findutils-4.6.0-1.any
+libsolv:   - gawk-5.0.0-1.any
+libsolv:   - getent-2.18.90-4.any
+libsolv:   - grep-3.0-2.any
+libsolv:   - groff-1.22.4-1.any
+libsolv:   - gzip-1.8-1.any
+libsolv:   - hostname-3.13-1.any
+libsolv:   - info-6.6-1.any
+libsolv:   - ipc-utils-1.0-2.any
+libsolv:   - less-530-1.any
+libsolv:   - libargp-20110921-3.any
+libsolv:   - libattr1-2.4.48-2.any
+libsolv:   - libblkid1-2.33.1-1.any
+libsolv:   - libbz2_1-1.0.6-3.any
+libsolv:   - libfdisk1-2.33.1-1.any
+libsolv:   - libffi6-3.2.1-2.any
+libsolv:   - libgcc1-7.4.0-1.any
+libsolv:   - libgdbm4-1.12-1.any
+libsolv:   - libgmp10-6.1.2-1.any
+libsolv:   - libiconv-1.14-3.any
+libsolv:   - libiconv2-1.14-3.any
+libsolv:   - libintl8-0.19.8.1-2.any
+libsolv:   - liblzma5-5.2.3-1.any
+libsolv:   - libmpfr6-4.0.2-1.any
+libsolv:   - libncursesw10-6.0-12.20171125.any
+libsolv:   - libp11-kit0-0.23.15-1.any
+libsolv:   - libpcre1-8.43-1.any
+libsolv:   - libpipeline1-1.4.0-1.any
+libsolv:   - libpopt-common-1.16-2.any
+libsolv:   - libpopt0-1.16-2.any
+libsolv:   - libreadline7-7.0.3-3.any
+libsolv:   - libsigsegv2-2.10-2.any
+libsolv:   - libsmartcols1-2.33.1-1.any
+libsolv:   - libssl1.1-1.1.1b-1.any
+libsolv:   - libstdc++6-7.4.0-1.any
+libsolv:   - libtasn1_6-4.13-1.any
+libsolv:   - libuuid1-2.33.1-1.any
+libsolv:   - login-1.13-1.any
+libsolv:   - man-db-2.7.6.1-1.any
+libsolv:   - mintty-3.0.0-1.any
+libsolv:   - ncurses-6.0-12.20171125.any
+libsolv:   - openssl-1.1.1b-1.any
+libsolv:   - p11-kit-0.23.15-1.any
+libsolv:   - p11-kit-trust-0.23.15-1.any
+libsolv:   - rebase-4.4.4-1.any
+libsolv:   - run-1.3.4-2.any
+libsolv:   - sed-4.4-1.any
+libsolv:   - tar-1.29-1.any
+libsolv:   - terminfo-6.0-12.20171125.any
+libsolv:   - tzcode-2018i-1.any
+libsolv:   - tzdata-2018i-1.any
+libsolv:   - util-linux-2.33.1-1.any
+libsolv:   - vim-minimal-8.1.1240-1.any
+libsolv:   - which-2.20-2.any
+libsolv:   - xz-5.2.3-1.any
+libsolv:   - zlib0-1.2.11-1.any
+libsolv: 
+2019/05/28 11:21:45 solving: 71 tasks, update: no, use test packages: no
+libsolv: solver started
+libsolv: dosplitprovides=0, noupdateprovide=0, noinfarchcheck=0
+libsolv: allowuninstall=0, allowdowngrade=0, allownamechange=1, allowarchchange=0, allowvendorchange=1
+libsolv: promoteepoch=0, forbidselfconflicts=0
+libsolv: obsoleteusesprovides=0, implicitobsoleteusesprovides=0, obsoleteusescolors=0, implicitobsoleteusescolors=0
+libsolv: dontinstallrecommended=0, addalreadyrecommended=0
+libsolv: obsoletes data: 1 entries
+libsolv: added 0 pkg rules for installed solvables
+libsolv: added 0 pkg rules for updaters of installed solvables
+libsolv: added 0 pkg rules for packages involved in a job
+libsolv: added 0 pkg rules because of weak dependencies
+libsolv: 188 of 24435 installable solvables considered for solving
+libsolv: pkg rule memory used: 16 K
+libsolv: pkg rule creation took 1 ms
+libsolv: choice rule creation took 0 ms
+libsolv: 683 pkg rules, 2 * 1 update rules, 71 job rules, 0 infarch rules, 0 dup rules, 0 choice rules, 0 best rules
+libsolv: overall rule memory used: 17 K
+libsolv: solving...
+libsolv: resolving job rules
+libsolv: resolving installed packages
+libsolv: deciding orphaned packages
+libsolv: solver statistics: 0 learned rules, 0 unsolvable, 0 minimization steps
+libsolv: done solving.
+libsolv: solver took 1 ms
+libsolv: final solver statistics: 0 problems, 0 learned rules, 0 unsolvable
+libsolv: solver_solve took 2 ms
+libsolv: 
+libsolv: transaction:
+libsolv:   install   _autorebase-001007-1.any
+libsolv: 
+libsolv:   install   alternatives-1.3.30c-10.any
+libsolv: 
+libsolv:   install   base-cygwin-3.8-1.any
+libsolv: 
+libsolv:   install   base-files-4.3-2.any
+libsolv: 
+libsolv:   install   bash-4.4.12-3.any
+libsolv: 
+libsolv:   install   bzip2-1.0.6-3.any
+libsolv: 
+libsolv:   install   ca-certificates-2.30-1.any
+libsolv: 
+libsolv:   install   coreutils-8.26-2.any
+libsolv: 
+libsolv:   install   crypto-policies-20190218-1.any
+libsolv: 
+libsolv:   install   cygutils-1.4.16-2.any
+libsolv: 
+libsolv:   install   cygwin-3.0.7-1.any
+libsolv: 
+libsolv:   install   dash-0.5.9.1-1.any
+libsolv: 
+libsolv:   install   diffutils-3.5-2.any
+libsolv: 
+libsolv:   install   editrights-1.03-1.any
+libsolv: 
+libsolv:   install   file-5.32-1.any
+libsolv: 
+libsolv:   install   findutils-4.6.0-1.any
+libsolv: 
+libsolv:   install   gawk-5.0.0-1.any
+libsolv: 
+libsolv:   install   getent-2.18.90-4.any
+libsolv: 
+libsolv:   install   grep-3.0-2.any
+libsolv: 
+libsolv:   install   groff-1.22.4-1.any
+libsolv: 
+libsolv:   install   gzip-1.8-1.any
+libsolv: 
+libsolv:   install   hostname-3.13-1.any
+libsolv: 
+libsolv:   install   info-6.6-1.any
+libsolv: 
+libsolv:   install   ipc-utils-1.0-2.any
+libsolv: 
+libsolv:   install   less-530-1.any
+libsolv: 
+libsolv:   install   libargp-20110921-3.any
+libsolv: 
+libsolv:   install   libattr1-2.4.48-2.any
+libsolv: 
+libsolv:   install   libblkid1-2.33.1-1.any
+libsolv: 
+libsolv:   install   libbz2_1-1.0.6-3.any
+libsolv: 
+libsolv:   install   libfdisk1-2.33.1-1.any
+libsolv: 
+libsolv:   install   libffi6-3.2.1-2.any
+libsolv: 
+libsolv:   install   libgcc1-7.4.0-1.any
+libsolv: 
+libsolv:   install   libgdbm4-1.12-1.any
+libsolv: 
+libsolv:   install   libgmp10-6.1.2-1.any
+libsolv: 
+libsolv:   install   libiconv-1.14-3.any
+libsolv: 
+libsolv:   install   libiconv2-1.14-3.any
+libsolv: 
+libsolv:   install   libintl8-0.19.8.1-2.any
+libsolv: 
+libsolv:   install   liblzma5-5.2.3-1.any
+libsolv: 
+libsolv:   install   libmpfr6-4.0.2-1.any
+libsolv: 
+libsolv:   install   libncursesw10-6.0-12.20171125.any
+libsolv: 
+libsolv:   install   libp11-kit0-0.23.15-1.any
+libsolv: 
+libsolv:   install   libpcre1-8.43-1.any
+libsolv: 
+libsolv:   install   libpipeline1-1.4.0-1.any
+libsolv: 
+libsolv:   install   libpopt-common-1.16-2.any
+libsolv: 
+libsolv:   install   libpopt0-1.16-2.any
+libsolv: 
+libsolv:   install   libreadline7-7.0.3-3.any
+libsolv: 
+libsolv:   install   libsigsegv2-2.10-2.any
+libsolv: 
+libsolv:   install   libsmartcols1-2.33.1-1.any
+libsolv: 
+libsolv:   install   libssl1.1-1.1.1b-1.any
+libsolv: 
+libsolv:   install   libstdc++6-7.4.0-1.any
+libsolv: 
+libsolv:   install   libtasn1_6-4.13-1.any
+libsolv: 
+libsolv:   install   libuuid1-2.33.1-1.any
+libsolv: 
+libsolv:   install   login-1.13-1.any
+libsolv: 
+libsolv:   install   man-db-2.7.6.1-1.any
+libsolv: 
+libsolv:   install   mintty-3.0.0-1.any
+libsolv: 
+libsolv:   install   ncurses-6.0-12.20171125.any
+libsolv: 
+libsolv:   install   openssl-1.1.1b-1.any
+libsolv: 
+libsolv:   install   p11-kit-0.23.15-1.any
+libsolv: 
+libsolv:   install   p11-kit-trust-0.23.15-1.any
+libsolv: 
+libsolv:   install   rebase-4.4.4-1.any
+libsolv: 
+libsolv:   install   run-1.3.4-2.any
+libsolv: 
+libsolv:   install   sed-4.4-1.any
+libsolv: 
+libsolv:   install   tar-1.29-1.any
+libsolv: 
+libsolv:   install   terminfo-6.0-12.20171125.any
+libsolv: 
+libsolv:   install   tzcode-2018i-1.any
+libsolv: 
+libsolv:   install   tzdata-2018i-1.any
+libsolv: 
+libsolv:   install   util-linux-2.33.1-1.any
+libsolv: 
+libsolv:   install   vim-minimal-8.1.1240-1.any
+libsolv: 
+libsolv:   install   which-2.20-2.any
+libsolv: 
+libsolv:   install   xz-5.2.3-1.any
+libsolv: 
+libsolv:   install   zlib0-1.2.11-1.any
+libsolv: 
+libsolv: 
+libsolv: orphaned packages:
+libsolv:   base-0.0-0.any (kept)
+libsolv: 
+libsolv: ordering transaction
+libsolv: transaction elements: 71
+libsolv: edges: 179, edge space: 212
+libsolv: edge creation took 0 ms
+libsolv: cycle: --> 
+libsolv: coreutils-8.26-2.any ##11##> 
+libsolv: tzcode-2018i-1.any --10--> 
+libsolv: bash-4.4.12-3.any --10--> 
+libsolv: 
+libsolv: cycles broken: 1
+libsolv: cycle breaking took 0 ms
+libsolv: cycle edge creation took 0 ms
+libsolv: invedge space: 265
+libsolv: creating new transaction took 0 ms
+libsolv: transaction ordering took 0 ms
+libsolv: 71 installed packages:
+libsolv:   - _autorebase-001007-1.any
+libsolv:   - alternatives-1.3.30c-10.any
+libsolv:   - base-cygwin-3.8-1.any
+libsolv:   - base-files-4.3-2.any
+libsolv:   - bash-4.4.12-3.any
+libsolv:   - bzip2-1.0.6-3.any
+libsolv:   - ca-certificates-2.30-1.any
+libsolv:   - coreutils-8.26-2.any
+libsolv:   - crypto-policies-20190218-1.any
+libsolv:   - cygutils-1.4.16-2.any
+libsolv:   - cygwin-3.0.7-1.any
+libsolv:   - dash-0.5.9.1-1.any
+libsolv:   - diffutils-3.5-2.any
+libsolv:   - editrights-1.03-1.any
+libsolv:   - file-5.32-1.any
+libsolv:   - findutils-4.6.0-1.any
+libsolv:   - gawk-5.0.0-1.any
+libsolv:   - getent-2.18.90-4.any
+libsolv:   - grep-3.0-2.any
+libsolv:   - groff-1.22.4-1.any
+libsolv:   - gzip-1.8-1.any
+libsolv:   - hostname-3.13-1.any
+libsolv:   - info-6.6-1.any
+libsolv:   - ipc-utils-1.0-2.any
+libsolv:   - less-530-1.any
+libsolv:   - libargp-20110921-3.any
+libsolv:   - libattr1-2.4.48-2.any
+libsolv:   - libblkid1-2.33.1-1.any
+libsolv:   - libbz2_1-1.0.6-3.any
+libsolv:   - libfdisk1-2.33.1-1.any
+libsolv:   - libffi6-3.2.1-2.any
+libsolv:   - libgcc1-7.4.0-1.any
+libsolv:   - libgdbm4-1.12-1.any
+libsolv:   - libgmp10-6.1.2-1.any
+libsolv:   - libiconv-1.14-3.any
+libsolv:   - libiconv2-1.14-3.any
+libsolv:   - libintl8-0.19.8.1-2.any
+libsolv:   - liblzma5-5.2.3-1.any
+libsolv:   - libmpfr6-4.0.2-1.any
+libsolv:   - libncursesw10-6.0-12.20171125.any
+libsolv:   - libp11-kit0-0.23.15-1.any
+libsolv:   - libpcre1-8.43-1.any
+libsolv:   - libpipeline1-1.4.0-1.any
+libsolv:   - libpopt-common-1.16-2.any
+libsolv:   - libpopt0-1.16-2.any
+libsolv:   - libreadline7-7.0.3-3.any
+libsolv:   - libsigsegv2-2.10-2.any
+libsolv:   - libsmartcols1-2.33.1-1.any
+libsolv:   - libssl1.1-1.1.1b-1.any
+libsolv:   - libstdc++6-7.4.0-1.any
+libsolv:   - libtasn1_6-4.13-1.any
+libsolv:   - libuuid1-2.33.1-1.any
+libsolv:   - login-1.13-1.any
+libsolv:   - man-db-2.7.6.1-1.any
+libsolv:   - mintty-3.0.0-1.any
+libsolv:   - ncurses-6.0-12.20171125.any
+libsolv:   - openssl-1.1.1b-1.any
+libsolv:   - p11-kit-0.23.15-1.any
+libsolv:   - p11-kit-trust-0.23.15-1.any
+libsolv:   - rebase-4.4.4-1.any
+libsolv:   - run-1.3.4-2.any
+libsolv:   - sed-4.4-1.any
+libsolv:   - tar-1.29-1.any
+libsolv:   - terminfo-6.0-12.20171125.any
+libsolv:   - tzcode-2018i-1.any
+libsolv:   - tzdata-2018i-1.any
+libsolv:   - util-linux-2.33.1-1.any
+libsolv:   - vim-minimal-8.1.1240-1.any
+libsolv:   - which-2.20-2.any
+libsolv:   - xz-5.2.3-1.any
+libsolv:   - zlib0-1.2.11-1.any
+libsolv: 
+2019/05/28 11:21:45 Augmented Transaction List:
+2019/05/28 11:21:45    0 install                                     base-cygwin               3.8-1
+2019/05/28 11:21:45    1 install                                          cygwin             3.0.7-1
+2019/05/28 11:21:45    2 install                                  libpopt-common              1.16-2
+2019/05/28 11:21:45    3 install                                        terminfo     6.0-12.20171125
+2019/05/28 11:21:45    4 install                                          tzdata             2018i-1
+2019/05/28 11:21:45    5 install                                           zlib0            1.2.11-1
+2019/05/28 11:21:45    6 install                                           which              2.20-2
+2019/05/28 11:21:45    7 install                                             run             1.3.4-2
+2019/05/28 11:21:45    8 install                                          mintty             3.0.0-1
+2019/05/28 11:21:45    9 install                                           login              1.13-1
+2019/05/28 11:21:45   10 install                                      libtasn1_6              4.13-1
+2019/05/28 11:21:45   11 install                                     libsigsegv2              2.10-2
+2019/05/28 11:21:45   12 install                                    libpipeline1             1.4.0-1
+2019/05/28 11:21:45   13 install                                        libpcre1              8.43-1
+2019/05/28 11:21:45   14 install                                        liblzma5             5.2.3-1
+2019/05/28 11:21:45   15 install                                       libiconv2              1.14-3
+2019/05/28 11:21:45   16 install                                        libgmp10             6.1.2-1
+2019/05/28 11:21:45   17 install                                         libgcc1             7.4.0-1
+2019/05/28 11:21:45   18 install                                         libffi6             3.2.1-2
+2019/05/28 11:21:45   19 install                                        libbz2_1             1.0.6-3
+2019/05/28 11:21:45   20 install                                         libargp          20110921-3
+2019/05/28 11:21:45   21 install                                       ipc-utils               1.0-2
+2019/05/28 11:21:45   22 install                                        hostname              3.13-1
+2019/05/28 11:21:45   23 install                                      editrights              1.03-1
+2019/05/28 11:21:45   24 install                                            dash           0.5.9.1-1
+2019/05/28 11:21:45   25 install                                   libncursesw10     6.0-12.20171125
+2019/05/28 11:21:45   26 install                                            file              5.32-1
+2019/05/28 11:21:45   27 install                                        libintl8          0.19.8.1-2
+2019/05/28 11:21:45   28 install                                      libstdc++6             7.4.0-1
+2019/05/28 11:21:45   29 install                                        libmpfr6             4.0.2-1
+2019/05/28 11:21:45   30 install                                          getent           2.18.90-4
+2019/05/28 11:21:45   31 install                                     _autorebase            001007-1
+2019/05/28 11:21:45   32 install                                     vim-minimal          8.1.1240-1
+2019/05/28 11:21:45   33 install                                         ncurses     6.0-12.20171125
+2019/05/28 11:21:45   34 install                                    libreadline7             7.0.3-3
+2019/05/28 11:21:45   35 install                                            less               530-1
+2019/05/28 11:21:45   36 install                                             sed               4.4-1
+2019/05/28 11:21:45   37 install                                        libuuid1            2.33.1-1
+2019/05/28 11:21:45   38 install                                   libsmartcols1            2.33.1-1
+2019/05/28 11:21:45   39 install                                        libpopt0              1.16-2
+2019/05/28 11:21:45   40 install                                     libp11-kit0           0.23.15-1
+2019/05/28 11:21:45   41 install                                        libiconv              1.14-3
+2019/05/28 11:21:45   42 install                                        libgdbm4              1.12-1
+2019/05/28 11:21:45   43 install                                        libattr1            2.4.48-2
+2019/05/28 11:21:45   44 install                                            info               6.6-1
+2019/05/28 11:21:45   45 install                                       diffutils               3.5-2
+2019/05/28 11:21:45   46 install                                    alternatives          1.3.30c-10
+2019/05/28 11:21:45   47 install                                            gawk             5.0.0-1
+2019/05/28 11:21:45   48 install                                       libblkid1            2.33.1-1
+2019/05/28 11:21:45   49 install                                        cygutils            1.4.16-2
+2019/05/28 11:21:45   50 install                                   p11-kit-trust           0.23.15-1
+2019/05/28 11:21:45   51 install                                         p11-kit           0.23.15-1
+2019/05/28 11:21:45   52 install                                       coreutils              8.26-2
+2019/05/28 11:21:45   53 install                                       libfdisk1            2.33.1-1
+2019/05/28 11:21:45   54 install                                            bash            4.4.12-3
+2019/05/28 11:21:45   55 install                                      util-linux            2.33.1-1
+2019/05/28 11:21:45   56 install                                          tzcode             2018i-1
+2019/05/28 11:21:45   57 install                                              xz             5.2.3-1
+2019/05/28 11:21:45   58 install                                            gzip               1.8-1
+2019/05/28 11:21:45   59 install                                           groff            1.22.4-1
+2019/05/28 11:21:45   60 install                                            grep               3.0-2
+2019/05/28 11:21:45   61 install                                       findutils             4.6.0-1
+2019/05/28 11:21:45   62 install                                 crypto-policies          20190218-1
+2019/05/28 11:21:45   63 install                                 ca-certificates              2.30-1
+2019/05/28 11:21:45   64 install                                           bzip2             1.0.6-3
+2019/05/28 11:21:45   65 install                                          man-db           2.7.6.1-1
+2019/05/28 11:21:45   66 install                                          rebase             4.4.4-1
+2019/05/28 11:21:45   67 install                                      base-files               4.3-2
+2019/05/28 11:21:45   68 install                                       libssl1.1            1.1.1b-1
+2019/05/28 11:21:45   69 install                                             tar              1.29-1
+2019/05/28 11:21:45   70 install                                         openssl            1.1.1b-1
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz 3af3f4bd622ae5b1526e397c249f5034d5ee8dd121f8cd62a4fa616cf32d66f3039fe88eeb390402650af1e05faf7ab2480d5fb67fa6307960f20c665529a0c0
+2019/05/28 11:21:49 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/cygwin/cygwin-3.0.7-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.0.7-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.0.7-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.0.7-1.tar.xz d91412eae92854e53f63ee0d9f610cd4bfbb47a72893fd54abe7710a65bc18af84edd2499e2cc2854b15c863b1cf06e4aaebd7f4711850f9deb1d128c3164f3e
+2019/05/28 11:21:59 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.0.7-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz 287d301578a18e67ec7595c2fe1ab2ad336b83b5561ee947b8237bd37647e32bf5e6f874a0137b3b5d26e93c94b3b585707b7a5999edc38e7eac7e5a5f038cd7
+2019/05/28 11:22:02 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz 23bd72d9d836d09897dc3a18516f905c444ea55b7c2245053e42bb3e1c3a66bb187b2eef8360ce21e49aea053b1de09bfea058f17fdc901aad071dc3976dc219
+2019/05/28 11:22:04 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-12.20171125.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/tzdata/tzdata-2018i-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/tzdata/tzdata-2018i-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/tzdata/tzdata-2018i-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/tzdata/tzdata-2018i-1.tar.xz bdd7d794be0a71d1c17710a410a23eb9037c7aed46af5e87050c6d4fe0a9c89ddc13be13961eeeeaa6df5290f65ca42f001c5179dcc0b57e5cd0cdf7f8c25730
+2019/05/28 11:22:08 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/tzdata/tzdata-2018i-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz d0364b3cf00c1db35221463e7de916020b2ddb72829e38ab35e3b8926310eb6ffb2fa1599de00e496f1a182b79d331784bf004514c8f8b2f03f4f5334a452023
+2019/05/28 11:22:11 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/which/which-2.20-2.tar.bz2 C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2 8d3804b90a7830afa6fb583b1d142adb0fbf1556426c7809033a57361bfcbdf2b05901b07bad5506586541531ccc352f8e3003a1855eace0a5f8483cb4110e42
+2019/05/28 11:22:13 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/run/run-1.3.4-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz 7e3156bbddc5f934fde3530879aa5186c9fdccb757ba848fc958e79e96534b336975f2882e413d5c18174628033a422157d25c48f8b5e90f0f1555ff2fa6343f
+2019/05/28 11:22:16 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/mintty/mintty-3.0.0-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mintty/mintty-3.0.0-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mintty/mintty-3.0.0-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mintty/mintty-3.0.0-1.tar.xz aebeba1bc1a223ed402520c396ff73b82937610fe4e6640dac63332139ea44e91c6416e48ef7af95d047e0e492f93914c89e857126d36788306b704554053c65
+2019/05/28 11:22:23 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mintty/mintty-3.0.0-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/login/login-1.13-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz 66acc3255962a27af8d701a8c02846f3b9180b7b1d65d946f6fb27cd24aeedc8e6a9a2601b419e981c94b356ef376a5c565ea31a4a220e5add9d70ae501a11d1
+2019/05/28 11:22:26 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz 35390c3d45e88288644dba4443dd7b4173f29ba92e9d60ea738874037da48d5366cf63667cbd471059b59250e58bd5be3ed42234fdde397bc94cab77fc078a07
+2019/05/28 11:22:28 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.13-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz 93c63e94a327dd3fca9dc6d51953705284f3eb4a0acdf1c7f28acc48eaf4bf56693f5957fe0dad1f3287804cc694a923dd7a797a62be25ff80a0eff2a52a8a76
+2019/05/28 11:22:31 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz 0b4c9cbd8ef16efa8f8c963ec910df7155430cbc3dfec1e37268229557905d08ac1c8c0afd579c63510c88e49c0169e2e7918eed88c421a4d1aab33eef1cf6a7
+2019/05/28 11:22:33 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/pcre/libpcre1/libpcre1-8.43-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.43-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.43-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.43-1.tar.xz 79dc09c21a4a5403b7d6b6c4bbf75d0799ce5ed82c6af227b2bf31a442f5d7099aa4976084a14370ef321383d4a7b2999e3440178e5e9719daf2383c97237631
+2019/05/28 11:22:36 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.43-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz 4fd9235b3ea6f55abcaf9cd293108f22f2352868ffd73be0b4bdb3692faaf7fb50d185d59dffefff46af2f24dcce712dce391a4efede69ca7fe38749b1a636ba
+2019/05/28 11:22:39 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz e4878132be751657141ed8ed03d1d5a71a4d681a0c1eb6f67f7a437522da15bea198da87cb5830bef45946377b6aefd809119e9d5dbb2248ae88a374e2cb8cf8
+2019/05/28 11:22:45 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz 0c12b04a7b3aa34f46b311a2bc972fd0a6249b8b6920f55565b708dd46128c3b3612618978cba9eaf8620ce847dfb21f7c7fc0c01c236cc47f329b08e5b2b273
+2019/05/28 11:22:49 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz e43e4ad2c6526dea3b6dfbf73f79acdfa302ca3d24c12633a0f15ca188fa3a540db1fe44593867b5119d8872b777ccdabaf46b5a1e6d24ce6c868573ac20022b
+2019/05/28 11:22:51 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-7.4.0-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz d549f129aba53013d86eb912818f8633c3b4e5b7fb50dff6cdec5a069722ff2a93c246e27f7c99b56b7fa9c0d5ab182aed5b64cb9df7e898f1c02c35fdb445d5
+2019/05/28 11:22:54 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz 5f75bb2b4e86fd87bf5f08d68b5a8a7697db0d6b60cbcf23d6d859ef8ababb5da74b341c6fea8dc4227ebb62f45775cca1e50fd622fd4dced68ddc9d64b30405
+2019/05/28 11:22:57 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libargp/libargp-20110921-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz 07935d9b9450c4fcf9bc2a30163538545003b0390f5ddce1d1ba72eea1894daa04ea647db586eeda4fa2aadf93a30281cd42d3f06dbae147a03100ad16cff3d1
+2019/05/28 11:23:00 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2 C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2 409b383f8df821e729297206efc4834003640f2f503f882068f90c4f4359140d4bef38561cbfe77656058263922d493094201bad411ae9b38e15280eabf01720
+2019/05/28 11:23:02 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/hostname/hostname-3.13-1.tar.bz2 C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2 75114326fa4575b8341434658a881feb81a6565e7e0adf8fd100dde87022d3818b5fc3df430bd9b3298d818a1d23f6b6c4bc7ff33efb3ded5f0ea0bf118c1aae
+2019/05/28 11:23:05 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/editrights/editrights-1.03-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz c977dc726c095d1957e7d2535698a354ef4c88f7b567ca22f1042f4fe37bd1eac3ee14a59134ec087394e28a54d5a951280ab7aa8a654008d1ebde8663a690e8
+2019/05/28 11:23:07 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/dash/dash-0.5.9.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz cc3dd14168a756db352e124ad691c77aa9c629c1d04d3f00512fcc5228d7205020aba9407f6c52608287034746b668cc01f6a128c91e36cbf1db9003ceb3856e
+2019/05/28 11:23:10 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz d30f6401f56397b03ae11bea9f5fd8877add349386902c7cd63bdd614533f41189068ad3c1aab4d21a8fb0c9c0350b33f70185b9fba33c9bae47619b6dd63f14
+2019/05/28 11:23:14 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-12.20171125.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/file/file-5.32-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/file/file-5.32-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/file/file-5.32-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/file/file-5.32-1.tar.xz 93b9081e8198eccf1a5a3d199d15d6298da8f49b9a6d8f1cf59fc0764479c4583eeba42e6dc7eb0a3504dd3768f7eb41f007916e2706cd0b49dc4cd191dc56ab
+2019/05/28 11:23:19 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/file/file-5.32-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz e392c5d3afa1da18c8c45841d0e72492ff4da82b5f70ea06ad20c510c81221136ff726a8e64b346d468a9940d908d412287e2be481747231081ac80ee564fe55
+2019/05/28 11:23:22 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz fd0ee29a936cecc2daa4c12a39d64386ec2c39d79d752cb18dcbf6a7dfc0c659c98e1ad7fd3c44fd299b513e271600b5c5f3f87da97577fb5bcbcc6612853045
+2019/05/28 11:23:26 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-7.4.0-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz ee0dc8e4a9781c6811cc7d706bbff5d5b32fb6441df2a931d3ae51811ca6945256a48becb7159ede990a3ac8b20b176ddcd1d96f5447661bbbc0b78255b333a1
+2019/05/28 11:23:30 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.0.2-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/getent/getent-2.18.90-4.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz 9bf746e89cec897cf76076a09724a2e3f3fbab5b96f15bb19c1dc36b0e317f586f0c311eb73f024f22bd5f1edbe3c5db0326bcfd8628ebc872aed0bf6bb8f541
+2019/05/28 11:23:33 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/_autorebase/_autorebase-001007-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz 14c7f84c5bfaef3a17371b4f2702f7ae1e31d8c5ec25c4d7076ca7b77b756aece3a7e8ddcd7d312ed8d5100a9b4a84355b89d517afa31dbaed6be49eaf5c45de
+2019/05/28 11:23:35 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/vim/vim-minimal/vim-minimal-8.1.1240-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.1.1240-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.1.1240-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.1.1240-1.tar.xz d72cbccce83a69101f35335b1eac8ff03a21f499dae69447134746f8ba9b44cc684bf4db3f2a43200e7c9a78773b311de5215d0faaf9b0c542850826a8ff6ab9
+2019/05/28 11:23:42 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.1.1240-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/ncurses/ncurses-6.0-12.20171125.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-12.20171125.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-12.20171125.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-12.20171125.tar.xz 594858cd687f762a184b6c9392c02e0df7c6587d212ed2e35a7c39d511e17e45c45e40fbe2bcb696116d9ed87a0adf6aeb573da6f7b143d91922b91767b363ce
+2019/05/28 11:23:48 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-12.20171125.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz 2a9243e53865e0074553d8e718e578aea424af9c1779823daa2e048742070df87f1d00c867b4f32b18e730f17f3498cb53da36f1a0d37c07bb89a59ac14fdf47
+2019/05/28 11:23:51 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/less/less-530-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/less/less-530-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/less/less-530-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/less/less-530-1.tar.xz 7e1e137e727e31a2957dd4ee85d06a881906bb32cc7ace9a6381500a2eb045b611fb4b72804742aa3e51b32712c654df03780976a466d4b581faa9d492f31efc
+2019/05/28 11:23:55 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/less/less-530-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/sed/sed-4.4-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz 1f454c4aedbbd67496fa53ea9369cb3d217aebf9e77d0ee460fbe1e9f8be00f90b461989ed85287fa90e629842f7655747804469312c0129c6a53d401ff2f895
+2019/05/28 11:24:01 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz d7d111d5bc78683c3a46f88b79f2d37088dd88b0c912cf6e82843d6050143d3e659945915c96dace293681195359d464478e1670ed78732a338825426335eea0
+2019/05/28 11:24:03 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.33.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz dd6b70cfb23053134b148c591a35947b36dafd17ac3e42eef79ad7fafe975c2d987dd5109cd5ef7ec631a0ad2fd0f680de14d67073e229d6e6dfe1eb24699e60
+2019/05/28 11:24:07 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz 414f5964be9a500033690344cb5c5c31cedf9d908f723d79c05551497e688c951b45abc041613be48d33bcdc47f4988308868f06377e31b5caa7241cd4efa6ab
+2019/05/28 11:24:09 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.15-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.15-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.15-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.15-1.tar.xz 55e6829effdd6eda612fb833b4a4d0143a11c8fe507310e8caa65dae067acc41857e859698621c674ab6a35b228ac3aae47538f5fc518a5b1aa1958aafbf8957
+2019/05/28 11:24:14 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.15-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/libiconv/libiconv-1.14-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz 4bf051aa4e25a7681c79cb4634c14b4e7aa5ca7431c5221406f9c9fdb5598ac2a99c5333b29613ecd7df26d54c8bed18f711ea33d59ecf014c719034fa69de0d
+2019/05/28 11:24:17 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz 0338426dcce06a2487a99c0ef0a0acc61d75aefb005996a074d023cddc1c2f6c60845bf1abd3341b08dc076e3fde5e7dd2c24ced2f9d00744a1a22e7d72a583a
+2019/05/28 11:24:20 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz a9b6e6d80dfc211b0377b329cef5b1863a4a8c94d97e6ec73a2f7ad16ee6635310dad3f26e6ad0fa038c14fab6cd9f66c81f0140dd3503d010b247740bce2f47
+2019/05/28 11:24:22 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/texinfo/info/info-6.6-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/texinfo/info/info-6.6-1.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/texinfo/info/info-6.6-1.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/texinfo/info/info-6.6-1.tar.xz 6c6a1ebea5dcf01f488380c16479168093e794c2a0750c03f3cbe0ff9e1f260eb3d4b24a24af861ba9d465d99a846db3b647aa87ead1f3b53a9c4e982252e77c
+2019/05/28 11:24:29 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/texinfo/info/info-6.6-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/diffutils/diffutils-3.5-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz.tmp
+Checking SHA512 for file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz
+SHA512 verified OK: file://C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz 38cb8e5f758605af5a6986ecafa5914105ace5a3c25c19d37079bcc8ef1d585a79ec6766cd4449057f6f387c4bcce5627487466c6f0171b961e9cf4cfe7dca2d
+2019/05/28 11:24:35 Downloaded C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2 C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2.tmp
+2019/05/28 11:24:36 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gawk/gawk-5.0.0-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gawk/gawk-5.0.0-1.tar.xz.tmp
+2019/05/28 11:24:37 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gawk/gawk-5.0.0-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/libblkid1/libblkid1-2.33.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.33.1-1.tar.xz.tmp
+2019/05/28 11:24:38 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/libblkid1/libblkid1-2.33.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/cygutils/cygutils-1.4.16-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.16-2.tar.xz.tmp
+2019/05/28 11:24:39 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/cygutils/cygutils-1.4.16-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.15-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.15-1.tar.xz.tmp
+2019/05/28 11:24:40 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.15-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/p11-kit/p11-kit-0.23.15-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.15-1.tar.xz.tmp
+2019/05/28 11:24:41 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/p11-kit/p11-kit-0.23.15-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/coreutils/coreutils-8.26-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz.tmp
+2019/05/28 11:24:42 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/libfdisk1/libfdisk1-2.33.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/libfdisk1/libfdisk1-2.33.1-1.tar.xz.tmp
+2019/05/28 11:24:42 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/libfdisk1/libfdisk1-2.33.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/bash/bash-4.4.12-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz.tmp
+2019/05/28 11:24:43 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/bash/bash-4.4.12-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/util-linux-2.33.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.33.1-1.tar.xz.tmp
+2019/05/28 11:24:44 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/util-linux/util-linux-2.33.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/tzcode/tzcode-2018i-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/tzcode/tzcode-2018i-1.tar.xz.tmp
+2019/05/28 11:24:45 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/tzcode/tzcode-2018i-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/xz/xz-5.2.3-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/xz/xz-5.2.3-1.tar.xz.tmp
+2019/05/28 11:24:46 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/xz/xz-5.2.3-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gzip/gzip-1.8-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/gzip/gzip-1.8-1.tar.xz.tmp
+2019/05/28 11:24:47 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/gzip/gzip-1.8-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/groff/groff-1.22.4-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/groff/groff-1.22.4-1.tar.xz.tmp
+2019/05/28 11:24:48 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/groff/groff-1.22.4-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/grep/grep-3.0-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/grep/grep-3.0-2.tar.xz.tmp
+2019/05/28 11:24:49 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/grep/grep-3.0-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/findutils/findutils-4.6.0-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/findutils/findutils-4.6.0-1.tar.xz.tmp
+2019/05/28 11:24:50 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/findutils/findutils-4.6.0-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz.tmp
+2019/05/28 11:24:51 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/ca-certificates/ca-certificates-2.30-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.30-1.tar.xz.tmp
+2019/05/28 11:24:52 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/ca-certificates/ca-certificates-2.30-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz.tmp
+2019/05/28 11:24:53 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/man-db/man-db-2.7.6.1-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.6.1-1.tar.xz.tmp
+2019/05/28 11:24:54 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/man-db/man-db-2.7.6.1-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/rebase/rebase-4.4.4-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.4-1.tar.xz.tmp
+2019/05/28 11:24:55 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/rebase/rebase-4.4.4-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/base-files/base-files-4.3-2.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/noarch/release/base-files/base-files-4.3-2.tar.xz.tmp
+2019/05/28 11:24:56 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/noarch/release/base-files/base-files-4.3-2.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1b-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1b-1.tar.xz.tmp
+2019/05/28 11:24:57 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1b-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/tar/tar-1.29-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/tar/tar-1.29-1.tar.xz.tmp
+2019/05/28 11:24:58 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/tar/tar-1.29-1.tar.xz
+get_url_to_file ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/openssl/openssl-1.1.1b-1.tar.xz C:\Users\Automation3\Downloads/ftp%3a%2f%2fftp.twaren.net%2fUnix%2fsourceware.org%2fcygwin%2f/x86_64/release/openssl/openssl-1.1.1b-1.tar.xz.tmp
+2019/05/28 11:24:58 connection error: 12015 fetching ftp://ftp.twaren.net/Unix/sourceware.org/cygwin/x86_64/release/openssl/openssl-1.1.1b-1.tar.xz
+2019/05/28 11:24:58 The following package(s) had download errors:
+2019/05/28 11:24:58   alternatives-1.3.30c-10
+2019/05/28 11:24:58   gawk-5.0.0-1
+2019/05/28 11:24:58   libblkid1-2.33.1-1
+2019/05/28 11:24:58   cygutils-1.4.16-2
+2019/05/28 11:24:58   p11-kit-trust-0.23.15-1
+2019/05/28 11:24:58   p11-kit-0.23.15-1
+2019/05/28 11:24:58   coreutils-8.26-2
+2019/05/28 11:24:58   libfdisk1-2.33.1-1
+2019/05/28 11:24:58   bash-4.4.12-3
+2019/05/28 11:24:58   util-linux-2.33.1-1
+2019/05/28 11:24:58   tzcode-2018i-1
+2019/05/28 11:24:58   xz-5.2.3-1
+2019/05/28 11:24:58   gzip-1.8-1
+2019/05/28 11:24:58   groff-1.22.4-1
+2019/05/28 11:24:58   grep-3.0-2
+2019/05/28 11:24:58   findutils-4.6.0-1
+2019/05/28 11:24:58   crypto-policies-20190218-1
+2019/05/28 11:24:58   ca-certificates-2.30-1
+2019/05/28 11:24:58   bzip2-1.0.6-3
+2019/05/28 11:24:58   man-db-2.7.6.1-1
+2019/05/28 11:24:58   rebase-4.4.4-1
+2019/05/28 11:24:58   base-files-4.3-2
+2019/05/28 11:24:58   libssl1.1-1.1.1b-1
+2019/05/28 11:24:58   tar-1.29-1
+2019/05/28 11:24:58   openssl-1.1.1b-1
+2019/05/28 11:25:24 note: Download incomplete.  Check C:\ImageScripter_2\cygwin\var\log\setup.log.full for details
+2019/05/28 11:25:24 Ending cygwin install
