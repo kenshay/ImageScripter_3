@@ -61,12 +61,13 @@ for i in range(100):
 HlUpgrade.PushButton.Click('Yes')
 for i in range(100):
     try:
+        print(i)
         UpgradingSystem.totalprogressitemprogress.Wait()
     except:
         Sleep(1)
-UpgradingSystem.totalprogressitemprogress.WaitVanish()
 
-HlUpgrade.PushButton.Click('Yes')
+HlUpgrade.finished.Wait()
+#HlUpgrade.PushButton.Click('Yes')
 HlUpgrade.finished.Wait()
 HlUpgrade.PushButton.Click('OK')
 
