@@ -1,15 +1,15 @@
 cd C:\\ImageScripter\Scripts
 
-pyinstaller --onefile C:\ImageScripter_2\EXE\Reset_Image_Scripter_2.py
+pyinstaller --onefile C:\ImageScripter_3\EXE\Reset_Image_Scripter_2.py
 
 
-pyinstaller --onefile --noconsole C:\ImageScripter_2\EXE\Script_Writer.py
+pyinstaller --onefile --noconsole C:\ImageScripter_3\EXE\Script_Writer.py
 pyinstaller --onefile --noconsole C:\ITP_Capture_3-14-19\ITP_Capture.py
-pyinstaller --onefile --noconsole C:\ImageScripter_2\EXE\Start_Script_Runner.py
+pyinstaller --onefile --noconsole C:\ImageScripter_3\EXE\Start_Script_Runner.py
 
 
 pyinstaller --onedirectory --noconsole C:\ITP_Capture_3-14-19\ITP_Capture.py
 
 
 
-C:\ImageScripter_2\Scripts\dist\ITP_Capture.exe
+C:\ImageScripter_3\Scripts\dist\ITP_Capture.exe
