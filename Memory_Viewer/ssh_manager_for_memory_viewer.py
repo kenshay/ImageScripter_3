@@ -4,9 +4,10 @@ from scp import SCPClient
 from datetime import datetime
 import time
 import io
+from paths import *
 
-destination_File2 = r"C:\Elan_Tools\Data\Build_Raw_File.txt"
-destination_File3 = r"C:\Elan_Tools\Data\Name_Raw_File.txt"
+##destination_File2 = r"C:\Elan_Tools\Data\Build_Raw_File.txt"
+##destination_File3 = r"C:\Elan_Tools\Data\Name_Raw_File.txt"
 
 
 def getTime():

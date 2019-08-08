@@ -4,7 +4,7 @@ import os
 import time
 from ssh_manager_for_memory_viewer import *
 
-fresh_data_base = r"C:\ImageScripter_2\Memory_Viewer\Fresh\memory_viewer_fresh.db"
+##fresh_data_base = r"C:\ImageScripter_2\Memory_Viewer\Fresh\memory_viewer_fresh.db"
 
 class Database_Manager_Class():
     def __init__(self,database_location):
@@ -47,6 +47,6 @@ class Database_Manager_Class():
         print("New Database Created -> ", self.database_location_file)
 
 if __name__ == "__main__":
-    database_location = r"C:\ImageScripter_2\Memory_Viewer\memory_viewer.db"  # name of the sqlite database file
+    database_location = r"C:\ImageScripter_3\Memory_Viewer\memory_viewer.db"  # name of the sqlite database file
     Database_Manager = Database_Manager_Class(database_location)
     #Database_Manager.Log_Memory_Into_database()
