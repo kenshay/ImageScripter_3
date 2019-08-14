@@ -120,8 +120,6 @@ def copy_tree(src, dst, preserve_mode=1, preserve_times=1,
     from distutils.file_util import copy_file
 
     if not dry_run and not os.path.isdir(src):
-        print('################')
-        print(src)
         raise DistutilsFileError(
               "cannot copy tree '%s': not a directory" % src)
     try:
@@ -139,7 +137,6 @@ def copy_tree(src, dst, preserve_mode=1, preserve_times=1,
     outputs = []
 
     for n in names:
-        print(n)
         src_name = os.path.join(src, n)
         dst_name = os.path.join(dst, n)
 
