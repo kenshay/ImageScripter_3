@@ -47,4 +47,9 @@ pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Save_Project.py
 pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Save_System.py
 
 
+
 pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Save_System_And_Project.py
+
+
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Script_Runner_Through_Writer_On_Startup.py
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Database_Viewer.py

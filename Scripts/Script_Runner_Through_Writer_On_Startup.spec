@@ -1,10 +1,10 @@
-# -*- mode: python -*-
+# -*- mode: python ; coding: utf-8 -*-
 
 block_cipher = None
 
 
-a = Analysis(['C:\\ImageScripter_2\\EXE\\Script_Runner_Through_Writer_On_Startup.py'],
-             pathex=['C:\\ImageScripter_2\\Scripts'],
+a = Analysis(['C:\\Ellumination\\System\\ImageScripter\\EXE\\Script_Runner_Through_Writer_On_Startup.py'],
+             pathex=['C:\\Ellumination\\System\\ImageScripter\\Scripts'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -28,5 +28,6 @@ exe = EXE(pyz,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
+          upx_exclude=[],
           runtime_tmpdir=None,
-          console=False )
+          console=True )
