@@ -6,6 +6,22 @@ pyinstaller --onefile C:\ImageScripter_3\EXE\Reset_Image_Scripter_2.py
 pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Reset_Project.py
 
 
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Reset_System.py
+
+
+
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Reset_System_And_Project.py
+
+
+
+"C:\Ellumination\System\ImageScripter\EXE\Reset_System_And_Project.py"
+
+
+
+
+
+
+
 "C:\Ellumination\System\ImageScripter\EXE\Reset_Project.py"
 
 
@@ -19,3 +35,16 @@ pyinstaller --onedirectory --noconsole C:\ITP_Capture_3-14-19\ITP_Capture.py
 
 
 C:\ImageScripter_3\Scripts\dist\ITP_Capture.exe
+
+
+###########################################
+
+
+
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Save_Project.py
+
+
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Save_System.py
+
+
+pyinstaller --onefile C:\Ellumination\System\ImageScripter\EXE\Save_System_And_Project.py
