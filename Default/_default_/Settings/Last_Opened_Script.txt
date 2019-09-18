@@ -1,1 +1,0 @@
-C:\Users\Administrator\Desktop\Image_Scripter\System\ImageScripter\\Lib\site-packages\imagescripter\core\script_runner_for_testing.py
