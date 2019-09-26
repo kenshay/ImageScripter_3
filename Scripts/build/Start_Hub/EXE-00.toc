@@ -2,7 +2,7 @@
  False,
  False,
  False,
- None,
+ 'C:\\Ellumination\\System\\ImageScripter\\EXE\\loading_eye.ico',
  None,
  False,
  False,
@@ -76,7 +76,7 @@
  [],
  False,
  False,
- 1569526151,
+ 1569526743,
  [('runw.exe',
    'c:\\ellumination\\system\\imagescripter\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])
