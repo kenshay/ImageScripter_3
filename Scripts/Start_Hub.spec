@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Ellumination\\System\\ImageScripter\\EXE\\Start_Hub.py'],
-             pathex=['C:\\Ellumination\\System\\ImageScripter\\Scripts'],
+a = Analysis(['C:\\Eluminate\\Start_Hub.py'],
+             pathex=['C:\\Eluminate\\System\\ImageScripter\\Scripts'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='C:\\Ellumination\\System\\ImageScripter\\EXE\\loading_eye.ico')
+          console=False , icon='C:\\Eluminate\\System\\ImageScripter\\EXE\\loading_eye.ico')

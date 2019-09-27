@@ -1,8 +1,16 @@
 
 try:
     import os
-    from paths import *
-    path = Python_Exe_Location + ' ' + ImageScripter_Location + "Lib\site-packages\Hub\hub.py"
+    LaunchPath = os.getcwd()
+    #LaunchPath = r'C:\Eluminate'
+
+    #print(LaunchPath)
+
+    python = LaunchPath + r"\System\ImageScripter\python.exe"
+    hub = LaunchPath + r"\System\ImageScripter\Lib\site-packages\Hub\hub.py"
+
+
+    path = python + ' ' + hub
     ##os.system(r"C:\ImageScripter_2\python.exe C:\ImageScripter_2\Lib\site-packages\Script_Writer\script_writer.py")
     os.system(path)
 
