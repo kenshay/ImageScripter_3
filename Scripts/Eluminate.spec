@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='C:\\Users\\Administrator\\Desktop\\loading_eye.ico')
+          console=False , icon='C:\\Eluminate\\System\\ImageScripter\\EXE\\loading_eye.ico')
