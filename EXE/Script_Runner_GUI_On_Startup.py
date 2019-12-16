@@ -1,6 +1,7 @@
 import os
 from paths import *
-
+import subprocess
+subprocess.Popen(["rm","-r","some.file"])
 
 
 try:
@@ -23,7 +24,9 @@ except Exception as e:
 
 if isRunning == False:
     print('Script Runner is not running, starting,')
-    os.system(Python_Exe_Location + ' ' + Script_Runner_Gui_Location + ' True')
+    #os.system(Python_Exe_Location + ' ' + Script_Runner_Gui_Location + ' True ' + '&')
+    subprocess.Popen([Python_Exe_Location, "-r", "some.file"])
+    print('TEST')
 else:
     print('Script Runner is already running, ignoring.')
 
