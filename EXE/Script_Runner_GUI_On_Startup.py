@@ -2,8 +2,6 @@ import os
 from paths import *
 
 
-
-
 try:
     import socket
     import pickle
