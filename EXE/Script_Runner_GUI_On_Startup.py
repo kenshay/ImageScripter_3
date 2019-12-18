@@ -63,3 +63,5 @@ try:
 except Exception as e:
     print(e)
 
+#os.chdir('C:\Eluminate\System\ImageScripter\Scripts')
+#os.system('pyinstaller --onefile --noconsole C:\Eluminate\System\ImageScripter\EXE\Script_Runner_GUI_On_Startup.py')
