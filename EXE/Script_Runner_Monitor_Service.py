@@ -47,3 +47,5 @@ class PythonCornerExample(SMWinservice):
 
 if __name__ == '__main__':
     PythonCornerExample.parse_command_line()
+
+    #C:\Eluminate\System\ImageScripter\python.exe C:\Eluminate\System\ImageScripter\EXE\Script_Runner_Monitor_Service.py install
