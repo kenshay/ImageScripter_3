@@ -54,7 +54,7 @@ try:
 
                 if isRunning == False:
                     print('Script Runner is not running, starting,')
-                    path = Python_Exe_Location_Without_Window + ' ' + ImageScripter_Location + "Lib\site-packages\Script_Runner\script_runner_gui.py"
+                    path = Python_Exe_Location_Without_Window + ' ' + ImageScripter_Location + "Lib\site-packages\Script_Runner\script_runner_gui.py True"
                     #self.ui.hide()
                     subprocess.call(path, shell=False)
                     # os.system(path)
