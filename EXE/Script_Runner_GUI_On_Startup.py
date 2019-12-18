@@ -54,9 +54,16 @@ try:
 
                 if isRunning == False:
                     print('Script Runner is not running, starting,')
+                    path = Python_Exe_Location_Without_Window + ' ' + ImageScripter_Location + "Lib\site-packages\Script_Runner\script_runner_gui.py"
+                    #self.ui.hide()
+                    subprocess.call(path, shell=False)
+                    # os.system(path)
+                    #self.ui.show()
+                    # proc = subprocess.Popen(path, shell=False)
+
                     #os.system(Python_Exe_Location + ' ' + Script_Runner_Gui_Location + ' True ' + '&')
-                    p = subprocess.Popen([Python_Exe_Location,Script_Runner_Gui_Location,'True','&'])
-                    print(p.pid)
+                    #p = subprocess.Popen([Python_Exe_Location,Script_Runner_Gui_Location,'True','&'])
+                    #print(p.pid)
 
                 else:
                     print('Script Runner is already running, ignoring.')
