@@ -9,3 +9,11 @@ Init_AutoComplete.py
 PC_Screenshot.png
 Lib/site-packages/imagescripter/data/deviceApplicationObject
 Lib/site-packages/imagescripter/core/Active_Script_Ouput.txt
+Lib/site-packages/Script_Writer/Current_Action.txt
+Lib/site-packages/imagescripter/core/Current_Image_Cordinates.txt
+Lib/site-packages/imagescripter/core/Current_Thresh_Match.txt
+Lib/site-packages/imagescripter/core/Last_Target_Image.png
+Lib/site-packages/imagescripter/core/Last_Templet_Image_With_Red_Box.png
+Lib/site-packages/imagescripter/core/last_x_y.txt
+Lib/site-packages/imagescripter/core/run.py
+TEMP/ITP8_Screenshot.png
