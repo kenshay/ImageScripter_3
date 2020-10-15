@@ -19,3 +19,4 @@ Lib/site-packages/imagescripter/core/run.py
 TEMP/ITP8_Screenshot.png
 Lib/site-packages/Script_Runner/Data/Active_Script.txt
 Lib/site-packages/Script_Writer/Current_Running_Script.txt
+Lib/site-packages/imagescripter/core/Total_Runs_Script_Runner.txt
